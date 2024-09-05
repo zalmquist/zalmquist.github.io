@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Innovating a Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A Network Sampling Approach for the HUD-Mandated Point-in-Time Count"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2024-09-05-aje
+excerpt: ''
 date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'American Journal of Epidemiology'
+slidesurl: ''
+paperurl: 'https://depts.washington.edu/zalmquist/articles/almquist_aje.pdf'
+citation: 'Zack W. Almquist, Ihsan Kahveci, Ashley Hazel, Owen Kajfasz, Janelle Rothfolk, Claire
+Guilmette, Mary-Catherine Anderson, Larisa Ozeryansky, and Amy Hagopian (in press). <a href="https://doi.org/10.1093/aje/kwae342">Innovating a Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A Network Sampling Approach for the HUD-Mandated Point-in-Time Count</a>. <i>American Journal of Epidemiology</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+*Abstract* To enumerate people experiencing homelessness in the U.S., the federal Department of Housing and Urban Development (HUD) mandates its designated local jurisdictions regularly conduct a crude census of this population. This Point-in-Time (PIT) body count, typically conducted on a January night by volunteers with flashlights and clipboards, is often followed by interviews with a separate convenience sample. Here, we propose employing a network-based (peer-referral) respondent-driven sampling (RDS) method to generate a representative sample of unsheltered people, accompanied by a novel method to generate a statistical estimate of the number of unsheltered people in the jurisdiction. First, we develop a power analysis for the sample size of our RDS survey to count unsheltered people experiencing homelessness. Then, we conducted three large-scale population-representative samples in King County, WA (Seattle metro) in 2022, 2023, and 2024. We describe the data collection and the application of our new method, comparing the 2020 PIT count (the last visual PIT count performed in King County) to the new method 2022 and 2024 PIT counts. We conclude with a discussion and future directions.
