@@ -1,5 +1,5 @@
 ---
-title: "Homelessness in the United States"
+title: "SOC 301: Homelessness in the United States"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-winter-teaching-2
