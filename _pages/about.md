@@ -29,7 +29,7 @@ Prof Almquist’s research centers on developing and applying mathematical, comp
 
 ------
 
-# Working Groups
+Working Groups
 ======
 
 * [Homelessness Research Working Group](https://ssdalab.github.io/kcpehworkinggroup/)
