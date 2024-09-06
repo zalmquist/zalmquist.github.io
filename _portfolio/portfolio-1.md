@@ -1,6 +1,6 @@
 ---
 title: "Housing and Homelessness"
-excerpt: "Research on the needs of people experiencing homelessness.<br/><img src='/images/500x300.png'>"
+excerpt: "Research on the needs of people experiencing homelessness.<br/><img src='/images/coc.png'>"
 collection: portfolio
 ---
 
