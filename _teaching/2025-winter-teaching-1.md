@@ -2,7 +2,7 @@
 title: "SOC 225: Data and Society"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-spring-teaching-1
+permalink: /teaching/2025-winter-teaching-1
 venue: "The University of Washington, Department of Sociology"
 date: 2025-01-01
 location: "Seattle, WA"
