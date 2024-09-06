@@ -47,9 +47,26 @@ PA: Elsevier.
 * Almquist, Z. W. and C. T. Butts (2014). Logistic Network Regression for Scalable Analysis of Networks with Joint Edge/Vertex Dynamics. Sociological Methodology 44(1), 273–321.
 * Almquist, Z. W. and C. T. Butts (2013). Dynamic Network Logistic Regression: A Logistic Choice Analysis of Inter- and Intra-group Blog Citation Dynamics in the 2004 US Presidential Election. Political Analysis 21(4), 430–448.
 
-## Personal Networks/Egocentric Networks
+## Personal Networks/Egocentric Networks/Network Sampling
 
 **Peer Reviewed Articles**
+* Almquist, Z. W., I. Kahveci, A. Hazel, O. Kajfasz, J. Rothfolk, C. Guilmette, M. Anderson, L. Ozeryansky, and
+A. Hagopian (2024). Innovating a Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A Network Sampling Approach for the HUD-Mandated Point-in-Time Count.
+American Journal of Epidemiology.
 * Almquist, Z. W., S. Arya, L. Zeng, and E. S. Spiro (2019). Unbiased Sampling of Users from (Online) Activity
 Data. Field Methods 31(1), 23–38.
 * Almquist, Z. W. (2012). Random errors in egocentric networks. Social Networks 34(4), 493–505.
+* Kurant, M., M. Gjoka, Y. Wang, Z. W. Almquist, C. T. Butts, and A. Markopoulou (2012). Coarse-Grained Topology Estimation via Graph Sampling. In: Proceedings of ACM SIGCOMM Workshop on Online Social Networks (WOSN) ’12. Helsinki, Finland.
+
+## Activity Networks
+
+* Almquist, Z. W., S. Arya, L. Zeng, and E. S. Spiro (2019). Unbiased Sampling of Users from (Online) Activity
+Data. Field Methods 31(1), 23–38.
+* Zeng, L., Z. W. Almquist, and E. S. Spiro (2019). “Friending” in Online Fitness Communities: Exploring
+Activity-Based Online Network Structure. In: Proceedings of the 52nd Hawaii International Conference on
+System Sciences, pp.2822–2831.
+* Zeng, L., Z. W. Almquist, and E. S. Spiro (2018). Stay Connected and Keep Motivated: Modeling Activity Level
+of Exercise in an Online Fitness Community. In: Social Computing and Social Media. Technologies and Analytics. Ed. by G. Meiselwitz. Vol. 10914. Lecture Notes in Computer Science. Springer International Publishing, pp.137–147.
+* Zeng, L., Z. W. Almquist, and E. S. Spiro (2017). Let’s Workout! Exploring Social Exercise in an Online Fitness
+Community. In: The iConference 2017 Proceedings, Wuhan, China. Vol. 2, pp.87–98.
+
