@@ -1,6 +1,6 @@
 ---
 title: "Housing and Homelessness"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Research on the needs of people experiencing homelessness.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
@@ -12,17 +12,17 @@ In the United States, the US Department of Housing and Urban Development release
 
 My research has focused on improving our understanding of the needs of people experiencing homelessness and how we can enumerate them. This work is a collaboration between my team and community partners. I introduced a method for adapting respondent-driven sampling (RDS) -- a peer referral-based method for generating a quasi-probability sample -- to estimate the total number of people living unsheltered in a given HUD-designated jurisdiction. In 2022, I helped King County Regional Homelessness Authority (KCRHA) implement this method, and the estimates are part of the official HUD record (See here). In 2023, a team of UW researchers piloted key improvements and software for this method (discussion on the data can be found here). Most recently, in 2024, my team at UW and KCRHA implemented this updated version of the method for the formal 2024 HUD PIT count. This work has been documented and peer-reviewed and can be found in Almquist et al. (in press). KCRHA has plans to use RDS methods for the unsheltered PIT count going forward. KCRHA and my team are currently engaged in improving the method and need an assessment questionnaire through the UW Population Health Initiative Grant. 
 
-*Working Group*
+<b>Working Group</b>
 
-* Issues and Research around People Experiencing Homelessness in King County
+* [Homelessness Research Working Group](https://ssdalab.github.io/kcpehworkinggroup/)
 
-*Community Partners*
+<b>Community Partners</b>
 
 * King County Regional Homelessness Authority
 * ETS REACH
 * King County Public Health
 
-*Funding*
+<b>Funding</b>
 
 * 2024 - 2026 Almquist, Z.W. (Lead-PI), Hagopian, A., Hebert, P., McCormick, T., Yang, J., Kajfasz, O., Rothfolk, J., Carey, C. "Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A high-frequency method for enumeration and needs assessment of the unsheltered population of people experiencing homelessness Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A high-frequency method for enumeration and needs assessment of the unsheltered population of people experiencing homelessness." University of Washington Population Health Initiative's Tier 3 Pilot Grant Program with support from CSDE and Sociology. $217,593.
 * 2022 - 2027 Almquist, Z. (PI). “CAREER: Measuring and Modeling the Multi-Modal Networks and Demographics of People Experiencing Homelessness.” Grant #SES-2142964, NSF Social, Social & Economic Sciences (SES), Sociology. $500,000.
