@@ -16,6 +16,7 @@ redirect_from:
 Prof Almquist is a recipient of the American Sociological Association's (ASA) Section on [Methodology's](https://www.asanet.org/asa-communities/sections/methodology) [Leo Goodman Award](https://www.asanet.org/communities-sections/sections/current-sections/methodology/methodology-award-recipient-history) and the ASA’s Section on [Mathematical Sociology's](http://www.asanet.org/asa-communities/sections/mathematical-sociology) [Outstanding Dissertation Award](http://www.asanet.org/sections/mathematical_past_recipients.cfm). 
 
 **Service**
+
 He is a recipient of the [NSF's](https://www.nsf.gov/) [CAREER](https://beta.nsf.gov/funding/opportunities/faculty-early-career-development-program-career) Award and the [ARO's](http://www.arl.army.mil/www/default.cfm?page=29) Young Investigator Program Award. Prof Almquist’s research has been funded by the [NSF](http://www.nsf.gov/ ), [NIH](https://www.nichd.nih.gov/), [ARO](http://www.arl.army.mil/www/default.cfm?page=29), [University of Minnesota](http://www.umn.edu/), and the [University of Washington](https://www.washington.edu/). 
 
 He was elected vice chairperson (chair-elect) of the [American Public Health Association's Caucus on Homelessness](https://www.apha.org/apha-communities/caucuses/caucus-on-homelessness) (starting Fall 2024) and elected and served as the Secretary-Treasurer of [ASA's Section on Mathematical Sociology](http://www.asanet.org/asa-communities/sections/mathematical-sociology) from 2018-2021. 
