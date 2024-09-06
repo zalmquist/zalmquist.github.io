@@ -4,7 +4,7 @@ excerpt: "<img src='/images/stat.png'>"
 collection: portfolio
 ---
 
-# Statistics Journals
+## Statistics Journals
 
 **Peer Reviewed Articles**
 
@@ -19,8 +19,12 @@ Edge/Vertex Dynamics”. In: Bayesian Inference in the Social Sciences. Ed. by I
 Hoboken, New Jersey: John Wiley & Sons.
 * Almquist, Z. W. (2010). US Census Spatial and Demographic Data in R: The UScensus2000 Suite of Packages.
 Journal of Statistical Software 37(6), 1–31.
+* Kurant, M., M. Gjoka, Y. Wang, Z. W. Almquist, C. T. Butts, and A. Markopoulou (2012). Coarse-Grained Topology Estimation via Graph Sampling. In: Proceedings of ACM SIGCOMM Workshop on Online Social Networks
+(WOSN) ’12. Helsinki, Finland.
 
-# Applied Methods Journals
+---
+
+## Applied Methods Journals
 
 **Peer Reviewed Articles**
 
