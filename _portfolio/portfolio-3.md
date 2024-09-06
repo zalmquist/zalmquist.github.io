@@ -1,6 +1,6 @@
 ---
 title: "Environmental Action and Governance"
-excerpt: "<img src='/images/500x300.png'>"
+excerpt: "<img src='/images/polnet.png'>"
 collection: portfolio
 ---
 
