@@ -6,7 +6,9 @@ collection: portfolio
 
 My work in this set of projects is focused on understanding social networks in the context of social movements and governmental action in the climate change and environmental action space. 
 
-### Environmental Governance
+---
+
+## Environmental Governance
 
 Organizational Decision-making in the Face of Climate Change: Dr. Benjamin Bagozzi and I are currently creating several large-scale dynamic networks with direct application to governmental policy and decision-making regarding climate change. International climate change negotiations often are undertaken at an annual Conference of the Parties (COPs) to the United Nations Framework Convention on Climate Change (UNFCCC). The UNFCCC’s 21st COP (held in late November 2015) served as a watershed moment, given its mandate to achieve a legally binding universal agreement on climate change among all the world's nations. We have conducted an original analysis of the country-level relations network underlying these international climate change negotiations through text and network methods. We are extending this work to focus on recent political activity surrounding this topic. Initial results have been presented at Sunbelt (the conference for the International Network for Social Network Analysis), and more recent work will be presented at ASA 2021. Work is ongoing.
 
@@ -20,8 +22,9 @@ Organizational Decision-making in the Face of Climate Change: Dr. Benjamin Bagoz
 * Zack W. Almquist, Benjamin E. Bagozzi, Daria Blinova, and Zach Brown (2024). "Dynamic Networks of Negotiation for International Climate Change
 Cooperation."
 
+---
 
-### Environmental Action
+## Environmental Action
 
 <b>Organizational Decision-making in the face of climate change:</b> Dr. Benjamin Bagozzi and I are currently engaged in creating several large-scale dynamic networks with direct application to governmental policy and decision-making regarding climate change. International climate change negotiations often are undertaken at an annual Conference of the Parties (COPs) to the United Nations Framework Convention on Climate Change (UNFCCC). The UNFCCC’s 21st COP (held in late November 2015) served as a watershed moment, given its mandate to achieve a legally binding universal agreement on climate change among all the world's nations. We have conducted an original analysis of the country-level relations network underlying these international climate change negotiations through text and network methods. We are extending this work to focus on recent political activity surrounding this topic.
 
@@ -33,7 +36,7 @@ Value Networks at the UNFCCC Climate Change Talks. Submitted to Network Science.
 * Almquist, Z. W., B. E. Bagozzi, D. Blinova, Z. Brown and M. Rulis (2024). Network Drivers of Organizational Diversity and Participation Across 30 Years of International Climate Change Negotiations. Submitted to Research in the Sociology of Organizations.
 
 
-<b>Radical Environmental Groups:</b> Radical environmental activists, in their efforts to call attention to environmental problems, to communicate with like-minded groups, and to mobilize support for their activities, produce an enormous amount of text. Access to this information leads to an intriguing set of questions: can one uncover the underlying network structure of even covert environmental activist groups from their publications? And, if so, can one also identify which groups and sub-networks are more prone to certain impactful behaviors (e.g., violent versus peaceful protest activities)? We have published two papers on the Do or Die! Movement in the UK through combined text, network, and spatial analysis methods. We then followed up with a comparative case in the US where we look into the texts produced by the Animal Liberation Front  movement.
+<b>Radical Environmental Groups:</b> Radical environmental activists, in their efforts to call attention to environmental problems, to communicate with like-minded groups, and to mobilize support for their activities, produce an enormous amount of text. Access to this information leads to an intriguing set of questions: can one uncover the underlying network structure of even covert environmental activist groups from their publications? And, if so, can one also identify which groups and sub-networks are more prone to certain impactful behaviors (e.g., violent versus peaceful protest activities)? We have published two papers on the Do or Die! Movement in the UK through combined text, network, and spatial analysis methods. We then followed up with a comparative case in the US, where we looked into the texts produced by the Animal Liberation Front movement.
 
 <b>Peer Reviewed Articles</b>
 
@@ -41,8 +44,11 @@ Value Networks at the UNFCCC Climate Change Talks. Submitted to Network Science.
 * Almquist, Z.W. and B. E. Bagozzi (2019). Using Radical Environmental Texts to Uncover Network Structure and Network Features. <i>Sociological Methods & Research</i> 48(4), 905–960.
 * Almquist, Z.W. and B. E. Bagozzi (2016). The Spatial Properties of Radical Environmental Organizations in the UK: Do or Die! <i>PloS ONE</i> 11(11), 1–19.
 
+---
 
-*Evacuation and Displacement Due to Climate Change and Disasters:* In collaboration with Facebook Data for Good (JW Schneider (Demography and Survey Science, Facebook) and Paige Maas (Core Data Science, Facebook)), we  are surveying displaced and evacuated individuals post natural disasters. We have so far surveyed after Floods in India and Bushfires in Australia. The first paper on this is available on Arxiv (Maas et al., 2020) and is currently under review. It is the basis for Internal Displacement Monitoring Centre (IDMC) estimates on displacement. Future work is looking to establish a rapid response survey so as to build an extensive database of surveys post-disaster response with a focus on evacuation and social and economic impact.
+## Disaster Response
+
+**Evacuation and Displacement Due to Climate Change and Disasters:** In collaboration with Facebook Data for Good (JW Schneider (Demography and Survey Science, Facebook) and Paige Maas (Core Data Science, Facebook)), we  are surveying displaced and evacuated individuals post natural disasters. We have so far surveyed after Floods in India and Bushfires in Australia. The first paper on this is available on Arxiv (Maas et al., 2020) and is currently under review. It is the basis for Internal Displacement Monitoring Centre (IDMC) estimates on displacement. Future work is looking to establish a rapid response survey to build an extensive database of surveys post-disaster response with a focus on evacuation and social and economic impact.
 
 <b>Peer Reviewed Articles and Policy Reports</b>
 
