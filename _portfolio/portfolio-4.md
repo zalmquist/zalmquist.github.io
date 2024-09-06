@@ -1,6 +1,6 @@
 ---
 title: "Social Network Methods"
-excerpt: "<img src='/images/500x300.png'>"
+excerpt: "<img src='/images/dynNet.png'>"
 collection: portfolio
 ---
 
