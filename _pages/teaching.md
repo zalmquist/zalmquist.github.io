@@ -41,38 +41,38 @@ Sociology
 **University of Washington**
 
 * SOC 538:  Data Science, Population Processes and Health 
-    + [Syllabus](syllabi/soc_538_syl.pdf)
+    + [Syllabus](files/soc_538_syl.pdf)
     + Spring 2022
 * SOC 506/CSSS 507: Quantitative Techniques in Sociology
-    + [Syllabus](syllabi/soc_506_syl.pdf)
+    + [Syllabus](files/soc_506_syl.pdf)
     + Spring 2020
 * SOC 504: Introduction to Applied Social Statistics
-    + [Syllabus](syllabi/soc_504_syl.pdf)
+    + [Syllabus](files/soc_504_syl.pdf)
     + Fall 2020
 * SOC 225: Data and Society (Data Science Minor)
-    + 3 Credit Lecture [Syllabus](syllabi/soc_225_syl.pdf)
-    + 5 Credit Lecture and Lab [Syllabus](syllabi/soc_225_lab_syl.pdf)
+    + 3 Credit Lecture [Syllabus](files/soc_225_syl.pdf)
+    + 5 Credit Lecture and Lab [Syllabus](files/soc_225_lab_syl.pdf)
     + Spring and Fall 2020, Spring 2021, 2022
 * SOC 325: Quantified Self: An Introduction to the Societal implications of self-tracking (Data Science Minor)
-    + [Syllabus](syllabi/soc_325_syl.pdf)
+    + [Syllabus](files/soc_325_syl.pdf)
     + Spring 2021
 
 **University of Minnesota**
 
 * SOC 8811: Advanced Social Statistics (Major requirement, PhD)
-    + [Syllabus](syllabi/stat_8811_syl.pdf)
+    + [Syllabus](files/stat_8811_syl.pdf)
     + Spring 2014, 2015
 * SOC 8412: Social Network Analysis: Theory and Methods (Graduate, elective, PhD)
-    + [Syllabus](syllabi/soc_8412_syl.pdf)
+    + [Syllabus](files/soc_8412_syl.pdf)
     + Fall 2015
 * SOC 3811: Social Statistics (Major Requirement, BA/BS)
-    + [Syllabus](syllabi/soc_3811_syl.pdf)
+    + [Syllabus](files/soc_3811_syl.pdf)
     + Spring 2018
 * SOC 3412/3412H: Social Networking (Undergraduate, elective, honors, BA/BS)
-    + [Syllabus](syllabi/soc_3412_syl.pdf)
+    + [Syllabus](files/soc_3412_syl.pdf)
     + Spring 2018
 * SOC 3090: The Sociology of Neighborhoods (Undergraduate, elective, online, BA/BS)
-    + [Syllabus](syllabi/soc_3090_syl.pdf)
+    + [Syllabus](files/soc_3090_syl.pdf)
     + Spring 2017
  
 
@@ -80,10 +80,10 @@ Statistics
 ===
 
 * CSSS 533: Research Methods in Demography
-    +  [Syllabus](syllabi/soc_506_syl.pdf)
+    +  [Syllabus](files/soc_506_syl.pdf)
     +  
 * CSSS 507: Quantitative Techniques in Sociology
-    + [Syllabus](syllabi/soc_506_syl.pdf)
+    + [Syllabus](files/soc_506_syl.pdf)
     + Spring 2020
 
 **University of Washington
@@ -91,16 +91,16 @@ Statistics
 
 **University of Minnesota**
 * STAT 5931: Topics: Predictive Modeling of Spatial, Textual and Network Data (Undergraduate/Graduate, elective, BS/MS)
-    + [Syllabus](syllabi/stat_5931_syl.pdf)
+    + [Syllabus](files/stat_5931_syl.pdf)
     + Fall 2017
 * STAT 5201: Sampling Methodology in Finite Populations (Undergraduate/Graduate, elective, BS/MS)
-    + [Syllabus](syllabi/stat_5201_syl.pdf)
+    + [Syllabus](files/stat_5201_syl.pdf)
     + Fall 2014, 2015
 * STAT 3701: Introduction to Statistical Computing (Major requirement, BA/BS)
-    + [Syllabus](syllabi/stat_3701_syl.pdf)
+    + [Syllabus](files/stat_3701_syl.pdf)
     + Spring 2018
 * STAT 3022: Data Analysis (Major requirement, BA/BS)
-    + [Syllabus](syllabi/stat_3022_syl.pdf)
+    + [Syllabus](files/stat_3022_syl.pdf)
     + Fall 2013
 
 
