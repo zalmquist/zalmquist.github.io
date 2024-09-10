@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF of my CV]('/files/Zack_Almquist_CV.pdf')
+[PDF of my CV](/files/Zack_Almquist_CV.pdf)
 
 
 Education
@@ -47,5 +47,5 @@ Current Teaching
 Current Service and leadership
 ======
 *  Graduate Committee
+*  Human Subjects Liason, Department of Sociology
 *  Editor-in-Chief Journal of Mathematical Sociology
-*  
