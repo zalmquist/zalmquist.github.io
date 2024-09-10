@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF of my CV]('files/Zack_Almquist_CV.pdf')
+
+
 Education
 ======
 * Ph.D in Sociology, University of California, Irvine, 2013
