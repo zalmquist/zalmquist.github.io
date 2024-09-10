@@ -35,7 +35,7 @@ Value Networks at the UNFCCC Climate Change Talks. Submitted to Network Science.
 
 ## Disaster Response
 
-**Evacuation and Displacement Due to Climate Change and Disasters:** I have been engaged in modeling the network dynamics of organizational decision-making during disasters, with a focus on hurricanes and fires. Recently, in collaboration with Facebook Data for Good (JW Schneider (Demography and Survey Science, Facebook) and Paige Maas (Core Data Science, Facebook)), we surveyed displaced and evacuated individuals post-natural disasters. We have so far surveyed after Floods in India and Bushfires in Australia. The first paper on this is available on Arxiv (Maas et al., 2020) and is currently under review. It is the basis for Internal Displacement Monitoring Centre (IDMC) estimates on displacement. Future work aims to establish a rapid response survey to build an extensive database of surveys post-disaster response, focusing on evacuation and social and economic impact.
+**Evacuation and Displacement Due to Climate Change and Disasters:** I have been engaged in modeling the network dynamics of organizational decision-making during disasters, focusing on hurricanes and fires. Recently, in collaboration with Facebook Data for Good (JW Schneider (Demography and Survey Science, Facebook) and Paige Maas (Core Data Science, Facebook)), we surveyed displaced and evacuated individuals post-natural disasters. We have so far surveyed after Floods in India and Bushfires in Australia. The first paper on this is available on Arxiv (Maas et al., 2020) and is currently under review. It is the basis for Internal Displacement Monitoring Centre (IDMC) estimates on displacement. 
 
 <b>Peer Reviewed Articles and Policy Reports</b>
 
