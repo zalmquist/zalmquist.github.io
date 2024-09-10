@@ -8,8 +8,9 @@ date: 2025-01-01
 location: "Seattle, WA"
 ---
 
+[Syllabus]()
+
 Course Description
 ===
 
-Syllabus
-===
+
