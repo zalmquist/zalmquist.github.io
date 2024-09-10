@@ -27,7 +27,7 @@ Below is a list of courses I have taught and other teaching-related activities.
 
 ---
 
-Data Science
+Data Science at the University of Washington
 ===
 
 * 2020 - 2024 Training Director for a NIH funded T32 Program in [Data Science and Demography](https://csde.washington.edu/training/fellowship-funding/data-science-demography-population-health-training/) at the University of Washington. 
@@ -38,7 +38,7 @@ Data Science
     + SOC 225: Data and Society (Data Science Minor)
     + SOC 325: Quantified Self: An Introduction to the Societal implications of self-tracking (Data Science Minor)
 
-Demography
+Demography at the University of Washington
 ===
 
 * Graduate Courses
@@ -92,15 +92,15 @@ Sociology
 Statistics
 ===
 
+
+**University of Washington**
+
 * CSSS 533: Research Methods in Demography
     +  [Syllabus](/files/soc_506_syl.pdf)
     +  
 * CSSS 507: Quantitative Techniques in Sociology
     + [Syllabus](/files/soc_506_syl.pdf)
     + Spring 2020
-
-**University of Washington
-
 
 **University of Minnesota**
 * STAT 5931: Topics: Predictive Modeling of Spatial, Textual and Network Data (Undergraduate/Graduate, elective, BS/MS)
