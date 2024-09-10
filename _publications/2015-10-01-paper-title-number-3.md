@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Spatial Heterogeneity Can Lead to Substantial Local Variations in COVID-19 Timing and Severity"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: ''
+date: 2020-09-10
+venue: 'Proceedings of the National Academies of Sciences'
+paperurl: 'https://depts.washington.edu/zalmquist/articles/almquist_PNAS.pdf'
+citation: 'Thomas, L. J., Huang, P., Yin, F., Luo, X. I., Almquist, Z. W., Hipp, J. R., & Butts, C. T. (2020). Spatial heterogeneity can lead to substantial local variations in COVID-19 timing and severity. Proceedings of the National Academy of Sciences, 117(39), 24180-24187.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**Abstract**
+
+Standard epidemiological models for COVID-19 employ variants of compartment (SIR or susceptible–infectious–recovered) models at local scales, implicitly assuming spatially uniform local mixing. Here, we examine the effect of employing more geographically detailed diffusion models based on known spatial features of interpersonal networks, most particularly the presence of a long-tailed but monotone decline in the probability of interaction with distance, on disease diffusion. Based on simulations of unrestricted COVID-19 diffusion in 19 US cities, we conclude that heterogeneity in population distribution can have large impacts on local pandemic timing and severity, even when aggregate behavior at larger scales mirrors a classic SIR-like pattern. Impacts observed include severe local outbreaks with long lag time relative to the aggregate infection curve, and the presence of numerous areas whose disease trajectories correlate poorly with those of neighboring areas. A simple catchment model for hospital demand illustrates potential implications for health care utilization, with substantial disparities in the timing and extremity of impacts even without distancing interventions. Likewise, analysis of social exposure to others who are morbid or deceased shows considerable variation in how the epidemic can appear to individuals on the ground, potentially affecting risk assessment and compliance with mitigation measures. These results demonstrate the potential for spatial network structure to generate highly nonuniform diffusion behavior even at the scale of cities, and suggest the importance of incorporating such structure when designing models to inform health care planning, predict community outcomes, or identify potential disparities.
