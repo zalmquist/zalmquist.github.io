@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF of my CV]('files/Zack_Almquist_CV.pdf')
+[PDF of my CV]('/files/Zack_Almquist_CV.pdf')
 
 
 Education
