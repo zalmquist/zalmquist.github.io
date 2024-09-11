@@ -1,0 +1,19 @@
+---
+title: "Recommendations for sharing network data and materials"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-09-11-nws
+excerpt: ''
+date: 2024-09-11
+venue: 'Network Science'
+paperurl: ''
+citation: 'Neal, Z. P., Z. Almquist, J. Bagrow, A. Clauset, J. Diesner, E. Lazega, J. Lovato, J. Moody, T. P. Peixoto, Z. Steinert-
+Threlkeld, and A. S. Teixeira1 (accepted). <a href="">Recommendations for sharing network data and materials</a>. <i>Network Science</i>.'
+---
+
+
+
+
+**Abstract**
+
+One of the goals of “open science” is to promote the transparency and accessibility of research. Sharing data and materials used in network research is critical to these goals. In this paper, we present recommendations for whether, what, when, and where network data and materials should be shared. We recommend that network data and materials should be shared, but access to or use of shared data and materials may be restricted if necessary to avoid harm or comply with regulations. Researchers should share the network data and materials necessary to reproduce reported results via a publicly accessible repository when an associated manuscript is published. To ensure the adoption of these recommendations, network journals should require sharing, and network associations and academic institutions should reward sharing.
