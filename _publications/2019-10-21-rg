@@ -1,0 +1,18 @@
+---
+title: "When does open government shut? Predicting government responses to citizen information requests"
+collection: publications
+category: manuscripts
+permalink: /publication/2019-10-21-rg
+excerpt: ''
+date: 2019-10-21
+venue: 'Regulation & Governance'
+paperurl: 'https://depts.washington.edu/zalmquist/articles/almquist_RG.pdf'
+citation: 'Bagozzi, B. E., Berliner, D., & Almquist, Z. W. (2021). <a href="https://onlinelibrary.wiley.com/doi/10.1111/rego.12282">When does open government shut? Predicting government responses to citizen information requests</a>. <i>Regulation & Governance</i>, 15(2), 280-297.'
+---
+
+
+
+
+**Abstract**
+
+Methods for the analysis of “big data” on citizen-government interactions are necessary for theoretical assessments of bureaucratic responsiveness. Such big data methods also stand to benefit practitioners’ abilities to monitor and improve these emerging transparency mechanisms. We consider supervised latent Dirichlet allocation (sLDA) as a potential method for these purposes. To this end, we use sLDA to examine the Mexican government’s (non)responsiveness to all federal information requests filed with the federal Mexican government during the 2003-2015 period, and to identify the request topics most associated with (non)responsiveness. Substantively, our comparisons of the topics that are most highly predictive of responsiveness and nonresponsivess indicate that political sensitivity plays a large and important role in shaping official behavior in this arena. We thus conclude that sLDA provides unique advantages for, and in-sights into, the analysis of (1) textual records of citizen-government interactions and (2) bureaucratic (non)responsiveness to these interactions.
