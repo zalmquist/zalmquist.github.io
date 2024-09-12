@@ -1,0 +1,16 @@
+---
+title: "Dynamic network analysis with missing data: theory and methods"
+collection: publications
+category: manuscripts
+permalink: /publication/2018-01-01-ss
+excerpt: ''
+date: 2018-01-01
+venue: 'Statistica Sinica'
+paperurl: 'https://depts.washington.edu/zalmquist/articles/almquist_SS_final.pdf'
+citation: 'Almquist, Z. W., & Butts, C. T. (2018). <a href="https://www3.stat.sinica.edu.tw/statistica/J28N3/J28N37/J28N37.html">Dynamic network analysis with missing data: theory and methods</a>. <i>Statistica Sinica</i>, 28(3), 1245.'
+---
+
+
+**Abstract**
+
+Statistical methods for dynamic network analysis have advanced greatly in the past decade. This article extends current estimation methods for dynamic network logistic regression (DNR) models, a subfamily of the Temporal Exponential-family Random Graph Models, to network panel data which contain missing data in the edge and/or vertex sets. We begin by reviewing DNR inference in the complete data case. We then provide a missing data framework for DNR families akin to that of Little and Rubin (2002) or Gile and Handcock (2010a). We discuss several methods for dealing with missing data, including multiple imputation (MI). We consider the computational complexity of the MI methods in the DNR case and propose a scalable, design-based approach that exploits the simplifying assumptions of DNR. We dub this technique the “complete-case” method. Finally, we examine the performance of this method via a simulation study of induced missingness in two classic network data sets.
