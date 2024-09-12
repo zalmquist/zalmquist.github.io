@@ -1,0 +1,18 @@
+---
+title: "Stable Multiple Time Step Simulation/Prediction From Lagged Dynamic Network Regression Models"
+collection: publications
+category: manuscripts
+permalink: /publication/2017-07-30-jcgs
+excerpt: ''
+date: 2017-07-30
+venue: 'Journal of Computational and Graphical Statistics'
+paperurl: 'https://depts.washington.edu/zalmquist/articles/almquist_JCGS.pdf'
+citation: 'Mallik, A., & Almquist, Z. W. (2019). <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2019.1594834">Stable Multiple Time Step Simulation/Prediction From Lagged Dynamic Network Regression Models</a>. <i>Journal of Computational and Graphical Statistics</i>, 28(4), 967-979.'
+---
+
+
+
+
+**Abstract**
+
+Changes in computation and automated data collection have greatly increased interest in statistical models of dynamic networks. Many of the models employed for inference on large-scale dynamic networks suffer from limited forward simulation/prediction capabilities. One major problem with many of the forward simulation procedures is a tendency for the model to become degenerate in only a few time steps, that is, the simulation/prediction procedure results in either null graphs or complete graphs. Here, we describe an algorithm for simulating a sequence of networks generated from lagged dynamic network regression models DNR(V), a subfamily of TERGMs. Further, we introduce a smoothed estimator for forward prediction based on smoothing of the change statistics obtained for a dynamic network regression model. We focus on the implementation of the algorithm, providing a series of motivating examples with comparisons to dynamic network models from the literature. We find that our algorithm significantly improves multistep prediction/simulation over standard DNR(V) forecasting. Furthermore, we show that our method performs comparably to existing more complex dynamic network analysis frameworks (SAOM and STERGMs) for small networks over short time periods, and significantly outperforms these approaches over long time time intervals and/or large networks. Supplementary materials for this article are available online.
