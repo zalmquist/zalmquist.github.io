@@ -1,0 +1,18 @@
+---
+title: "Logistic Network Regression for Scalable Analysis of Networks with Joint Edge/Vertex Dynamics"
+collection: publications
+category: manuscripts
+permalink: /publication/2014-03-07-sm
+excerpt: ''
+date: 2014-03-07
+venue: 'Sociological Methodology'
+paperurl: 'https://depts.washington.edu/zalmquist/articles/almquist_SM.pdf'
+citation: 'Almquist, Z. W., & Butts, C. T. (2014). <a href="https://journals.sagepub.com/doi/10.1177/0081175013520159">Logistic network regression for scalable analysis of networks with joint edge/vertex dynamics</a>. <i>Sociological methodology</i>, 44(1), 273-321.'
+---
+
+
+
+
+**Abstract**
+
+Change in group size and composition has long been an important area of research in the social sciences. Similarly, interest in interaction dynamics has a long history in sociology and social psychology. However, the effects of endogenous group change on interaction dynamics are a surprisingly understudied area. One way to explore these relationships is through social network models. Network dynamics may be viewed as a process of change in the edge structure of a network, in the vertex set on which edges are defined, or in both simultaneously. Although early studies of such processes were primarily descriptive, recent work on this topic has increasingly turned to formal statistical models. Although showing great promise, many of these modern dynamic models are computationally intensive and scale very poorly in the size of the network under study and/or the number of time points considered. Likewise, currently used models focus on edge dynamics, with little support for endogenously changing vertex sets. Here, the authors show how an existing approach based on logistic network regression can be extended to serve as a highly scalable framework for modeling large networks with dynamic vertex sets. The authors place this approach within a general dynamic exponential family (exponential-family random graph modeling) context, clarifying the assumptions underlying the framework (and providing a clear path for extensions), and they show how model assessment methods for cross-sectional networks can be extended to the dynamic case. Finally, the authors illustrate this approach on a classic data set involving interactions among windsurfers on a California beach.
