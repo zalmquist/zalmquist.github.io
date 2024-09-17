@@ -1,0 +1,18 @@
+---
+title: "A Flexible Parameterization for Baseline Mean Degree in Multiple-Network ERGMs"
+collection: publications
+category: manuscripts
+permalink: /publication/2015-07-15-jms
+excerpt: ''
+date: 2015-07-15
+venue: 'Journal of Mathematical Sociology'
+paperurl: 'https://depts.washington.edu/zalmquist/articles/almquist_JMS.pdf'
+citation: 'Butts, C. T., & Almquist, Z. W. (2015). <a href="https://www.tandfonline.com/doi/full/10.1080/0022250X.2014.967851">A flexible parameterization for baseline mean degree in multiple-network ERGMs</a>. <i>The Journal of mathematical sociology</i>, 39(3), 163-167.'
+---
+
+
+
+
+**Abstract**
+
+The conventional exponential family random graph model (ERGM) parameterization leads to a baseline density that is constant in graph order (i.e., number of nodes); this is potentially problematic when modeling multiple networks of varying order. Prior work has suggested a simple alternative that results in constant expected mean degree. Here, we extend this approach by suggesting another alternative parameterization that allows for flexible modeling of scenarios in which baseline expected degree scales as an arbitrary power of order. This parameterization is easily implemented by the inclusion of an edge count/log order statistic along with the traditional edge count statistic in the model specification.
