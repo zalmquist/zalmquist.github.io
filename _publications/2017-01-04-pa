@@ -1,0 +1,18 @@
+---
+title: "Dynamic Network Logistic Regression: A Logistic Choice Analysis of Inter- and Intra-group Blog Citation Dynamics in the 2004 US Presidential Election"
+collection: publications
+category: manuscripts
+permalink: /publication/2017-01-04-pa
+excerpt: ''
+date: 2017-01-04
+venue: 'Polotical Analysis'
+paperurl: 'https://depts.washington.edu/zalmquist/articles/almquist_PA.pdf'
+citation: 'Almquist, Z. W., & Butts, C. T. (2013). <a href="https://doi.org/10.1093/pan/mpt016">Dynamic network logistic regression: A logistic choice analysis of inter-and intra-group blog citation dynamics in the 2004 US presidential election</a>. <i>Political analysis</i>, 21(4), 430-448.'
+---
+
+
+
+
+**Abstract**
+
+Methods for analysis of network dynamics have seen great progress in the past decade. This article shows how Dynamic Network Logistic Regression techniques (a special case of the Temporal Exponential Random Graph Models) can be used to implement decision theoretic models for network dynamics in a panel data context. We also provide practical heuristics for model building and assessment. We illustrate the power of these techniques by applying them to a dynamic blog network sampled during the 2004 US presidential election cycle. This is a particularly interesting case because it marks the debut of Internet-based media such as blogs and social networking web sites as institutionally recognized features of the American political landscape. Using a longitudinal sample of all Democratic National Convention/Republican National Convention—designated blog citation networks, we are able to test the influence of various strategic, institutional, and balance-theoretic mechanisms as well as exogenous factors such as seasonality and political events on the propensity of blogs to cite one another over time. Using a combination of deviance-based model selection criteria and simulation-based model adequacy tests, we identify the combination of processes that best characterizes the choice behavior of the contending blogs.
