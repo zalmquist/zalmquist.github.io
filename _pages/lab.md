@@ -7,7 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-<p><b>The SSDA Lab</b> works on a range of problems related to social networks, organizations, technology, and space. We are housed at the University of Washington and enjoy strong ties with our colleagues in Sociology, Statistics, CSDE, CSSS, iSchool and eScience. Students interested in joining the lab should contact me (<a href="mailto:email:zalmquist@uw.edu">zalmquist@uw.edu </a>) for more information.</p>
+
+<table class="imgtable"><tr><td width="300px">
+<img src="/images/diff_fest3.png" alt="SSDA lab" width = "300px">&nbsp;</td>
+<td align="left"><p><b>The SSDA Lab</b> works on a range of problems related to social networks, organizations, technology, and space. We are housed at the University of Washington and enjoy strong ties with our colleagues in Sociology, Statistics, CSDE, CSSS, iSchool and eScience. Students interested in joining the lab should contact me (<a href="mailto:email:zalmquist@uw.edu">zalmquist@uw.edu </a>) for more information.</p>
+</td></tr></table>
+
 
 Current Funding
 ===
