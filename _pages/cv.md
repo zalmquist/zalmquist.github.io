@@ -26,26 +26,36 @@ Primary Appointments
   * Adjunct Associate Professor of Statistics
   * Senior Data Science Fellow, eScience
 
-Publications
+Affiliations
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Up Coming Presentations
+* Faculty Affiliate The Center for Studies in Demography and Ecology
+* Faculty Affiliate Urban@UW
+* Faculty Affiliate The Center for Statistics and the Social Sciences
+* Faculty Affiliate The Center for Environmental Politics
+* Faculty Affiliate West Coast Poverty Center
+
+Past Appointments
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Current Teaching
+
+* University of Washington
+  * 2020 - 2024 Training Core PI, CSDE
+  * 2020 - 2022 Assistant Professor, Department of Sociology
+* Meta (Formerly Facebook), Inc
+  * 2018 - 2020 Research Scientist, Demography and Survey Science
+* University of Minnesota
+  * Assistant Professor, Departments of Sociology and Statistics
+
+Professional Leadership
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Current Service and leadership
-======
-*  Graduate Committee
-*  Human Subjects Liason, Department of Sociology
-*  Editor-in-Chief Journal of Mathematical Sociology
+* 2022 - present Editor-in-Chief Journal of Mathematical Sociology
+* 2024 - present Chair-elect/Vice Chair APHA Caucus on Homelessness
+
+Professional Memberships
+* 2007-present American Association for Public Opinion Research
+* 2022-present American Public Health Association
+* 2009-present American Sociological Association
+* 2013-present American Statistical Association
+* 2009-present International Network for Social Network Analysis
+* 2007-present Population Association of America
+* 2012-present Sigma Xi
+
