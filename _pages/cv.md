@@ -47,10 +47,13 @@ Past Appointments
 
 Professional Leadership
 ======
+
 * 2022 - present Editor-in-Chief Journal of Mathematical Sociology
 * 2024 - present Chair-elect/Vice Chair APHA Caucus on Homelessness
 
 Professional Memberships
+======
+
 * 2007-present American Association for Public Opinion Research
 * 2022-present American Public Health Association
 * 2009-present American Sociological Association
