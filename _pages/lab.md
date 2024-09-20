@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Lab"
+title: "The Social, Spatial, and Dynamic Analysis Lab"
 permalink: /lab/
 author_profile: true
 ---
