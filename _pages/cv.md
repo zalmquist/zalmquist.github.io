@@ -43,7 +43,7 @@ Past Appointments
 * Meta (Formerly Facebook), Inc
   * 2018 - 2020 Research Scientist, Demography and Survey Science
 * University of Minnesota
-  * Assistant Professor, Departments of Sociology and Statistics
+  * 2013 - 2018 Assistant Professor, Departments of Sociology and Statistics
 
 Professional Leadership
 ======
