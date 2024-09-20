@@ -10,7 +10,7 @@ author_profile: true
 
 <table class="imgtable"><tr><td width="300px">
 <img src="/images/diff_fest3.png" alt="SSDA lab" width = "300px">&nbsp;</td>
-<td align="left"><p><b>The SSDA Lab</b> works on a range of problems related to social networks, organizations, technology, and space. We are housed at the University of Washington and enjoy strong ties with our colleagues in Sociology, Statistics, CSDE, CSSS, iSchool and eScience. Students interested in joining the lab should contact me (<a href="mailto:email:zalmquist@uw.edu">zalmquist@uw.edu </a>) for more information.</p>
+<td align="left"><p><b>The SSDA Lab</b> works on a range of problems related to social networks, organizations, technology, and space. We are housed at the University of Washington and enjoy strong ties with our colleagues in Sociology, Statistics, CSDE, CSSS, iSchool, and eScience. Students interested in joining the lab should contact me (<a href="mailto:email:zalmquist@uw.edu">zalmquist@uw.edu </a>) for more information.</p>
 </td></tr></table>
 
 People
@@ -18,11 +18,23 @@ People
 
 ### PI
 
+* Zack W. Almquist, Associate Professor, UW
+
 ### Graduate Students
 
-### Undergraduate Students
+* Zach Brown, PhD Student in Sociology, UW
+* David Coomes, PhD Student in Epidemiology, UW (DSDT Fellow)
+* Yehong Deng, PhD Student in Sociology, UW
+* Ihsan Kahveci, PhD Student in Sociology, UW
+* Elizabeth Nova, PhD Student in Sociology, UW (DSDT Fellow)
+* Brandon Morande, PhD Student in Sociology, UW
+* Larisa Ozeryansky, PhD Student in Interdisciplinary Studies, UW
 
 ### Alumni
+
+* Aja Sutton, PhD Geography - Postdoc Stanford University
+* June Yang, PhD Sociology - Research Scientist at CSDE & eScience, UW
+* Connor Gilroy, PhD Sociology - Blue Rose Research
 
 Current Funding
 ===
