@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-Current Classes
+Up coming & current courses
 ===
 
 {% for post in site.teaching reversed %}
