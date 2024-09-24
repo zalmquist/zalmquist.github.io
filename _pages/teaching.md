@@ -64,7 +64,7 @@ Sociology
     + Fall 2020
 * SOC 401: Housing and Homelessness in the United States
     + [Syllabus](/files/soc_401_syl.pdf)
-    + Winter 2024
+    + Fall 2023
 * SOC 331: Population and Society
     + [Syllabus]()
     + Spring 2025
