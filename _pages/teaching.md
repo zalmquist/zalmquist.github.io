@@ -105,7 +105,7 @@ Statistics
 **University of Washington**
 
 * CSSS 533: Research Methods in Demography
-    +  [Syllabus](/files/soc_506_syl.pdf)
+    +  [Syllabus](/files/soc_533_syl.pdf)
     +  Winter 2023
 * CSSS 507: Quantitative Techniques in Sociology
     + [Syllabus](/files/soc_506_syl.pdf)
