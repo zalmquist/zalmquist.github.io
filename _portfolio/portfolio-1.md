@@ -36,7 +36,7 @@ My research has focused on improving our understanding of the needs of people ex
 <b>Peer Reviewed Articles</b>
 
 * Almquist, Z. W., I. Kahveci, A. Hazel, O. Kajfasz, J. Rothfolk, C. Guilmette, M. Anderson, L. Ozeryansky, and A. Hagopian (in press). Innovating a Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A Network Sampling Approach for the HUD-Mandated Point-in-Time Count. <i>American Journal of Epidemiology</i>.
-* Anderson, M., A. Hazel, J. M. Perkins, and Z. W. Almquist (2024). Identity and Generosity Norms Among People Experiencing Homelessness in Nashville, TN: A Dictator Game Experiment. <i>International Journal on Homelessness</i>.
+* Anderson, M.C., A. Hazel, J. M. Perkins, and Z. W. Almquist (2024). Identity and Generosity Norms Among People Experiencing Homelessness in Nashville, TN: A Dictator Game Experiment. <i>International Journal on Homelessness</i>, 3(3), 1–13.
 * Anderson, M. C., A. Hazel, J. M. Perkins, and Z. W. Almquist (2021). The Ecology of Unsheltered Homelessness: Environmental and Social-Network Predictors of Well-Being among an Unsheltered Homeless Population. <i>International Journal of Environmental Research and Public Health</i> 18(14), 7328.
 * Almquist, Z. W. (2020). Large-scale Spatial Network Models: An application to modeling information diffusion through the homeless population of San Francisco. <i>Environment and Planning B: Urban Analytics and City
 Science</i> 47(3), 523–540
