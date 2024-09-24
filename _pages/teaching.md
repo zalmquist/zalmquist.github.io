@@ -31,7 +31,7 @@ Data Science at the University of Washington
 ===
 
 * 2020 - 2024: Training Director for a NIH funded T32 Program in [Data Science and Demography Training](https://csde.washington.edu/training/fellowship-funding/data-science-demography-population-health-training/) at the University of Washington. 
-* 2020 - present: Curriculum committee for University-wide Data Science minor, University of Washington.
+* 2020 - present: Curriculum committee for the university-wide Data Science minor.
 * Graduate Courses
     + SOC 538: Data Science, Population Processes and Health
 * Undergraduate Courses
