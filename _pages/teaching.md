@@ -21,7 +21,7 @@ Syllabi and other information on my teaching
 
 My objectives as an educator of social science, data science, and methods courses, in particular, are to expose students to empirical research through data collection (e.g., survey research or sensors) and data analysis (e.g., linear models and descriptive statistics) and to provide ample opportunity for data presentation and interpretation. Students learn methods and statistics best through examples and hands-on experience, including written reports, problem sets, and presentations.
 
-My current teaching focuses on data science, demography, social network methods, and homelessness-related issues. I have also taught courses in statistics and sociology at the graduate and undergraduate level.
+My teaching focuses on data science, demography, social network methods, and homelessness-related issues. I have also taught courses in statistics and sociology at the graduate and undergraduate levels.
 
 Below is a list of courses I have taught and other teaching-related activities. 
 
@@ -30,8 +30,8 @@ Below is a list of courses I have taught and other teaching-related activities.
 Data Science at the University of Washington
 ===
 
-* 2020 - 2024 Training Director for a NIH funded T32 Program in [Data Science and Demography](https://csde.washington.edu/training/fellowship-funding/data-science-demography-population-health-training/) at the University of Washington. 
-* Curriculum committee for University-wide Data Science minor, University of Washington.
+* 2020 - 2024: Training Director for a NIH funded T32 Program in [Data Science and Demography Training](https://csde.washington.edu/training/fellowship-funding/data-science-demography-population-health-training/) at the University of Washington. 
+* 2020 - present: Curriculum committee for University-wide Data Science minor, University of Washington.
 * Graduate Courses
     + SOC 538: Data Science, Population Processes and Health
 * Undergraduate Courses
@@ -62,13 +62,14 @@ Sociology
 * SOC 504: Introduction to Applied Social Statistics
     + [Syllabus](/files/soc_504_syl.pdf)
     + Fall 2020
+* SOC 331: Population and Society
+* SOC 325: Quantified Self: An Introduction to the Societal implications of self-tracking (Data Science Minor)
+    + [Syllabus](/files/soc_325_syl.pdf)
+    + Spring 2021, Winter 2023, 2024
 * SOC 225: Data and Society (Data Science Minor)
     + 3 Credit Lecture [Syllabus](/files/soc_225_syl.pdf)
     + 5 Credit Lecture and Lab [Syllabus](/files/soc_225_lab_syl.pdf)
-    + Spring and Fall 2020, Spring 2021, 2022
-* SOC 325: Quantified Self: An Introduction to the Societal implications of self-tracking (Data Science Minor)
-    + [Syllabus](/files/soc_325_syl.pdf)
-    + Spring 2021
+    + Fall 2020; Spring 2020, 2021, 2022, 2025; Winter 2024, 2025
 
 **University of Minnesota**
 
