@@ -65,7 +65,7 @@ Sociology
 * SOC 331: Population and Society
 * SOC 325: Quantified Self: An Introduction to the Societal implications of self-tracking (Data Science Minor)
     + [Syllabus](/files/soc_325_syl.pdf)
-    + Spring 2021, Winter 2023, 2024
+    + Spring 2021; Winter 2023; Fall 2023
 * SOC 225: Data and Society (Data Science Minor)
     + 3 Credit Lecture [Syllabus](/files/soc_225_syl.pdf)
     + 5 Credit Lecture and Lab [Syllabus](/files/soc_225_lab_syl.pdf)
