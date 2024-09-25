@@ -21,7 +21,7 @@ Dr. Almquist is a recipient of the [NSF's](https://www.nsf.gov/) [CAREER](https:
 
 Prof Almquist was elected vice chairperson (chair-elect) of the [American Public Health Association's Caucus on Homelessness](https://www.apha.org/apha-communities/caucuses/caucus-on-homelessness) (starting Fall 2024) and elected and served as the Secretary-Treasurer of [ASA's Section on Mathematical Sociology](http://www.asanet.org/asa-communities/sections/mathematical-sociology) from 2018-2021. 
 
-He is the Editor-in-Chief of the [Journal of Mathematical Sociology](https://www.tandfonline.com/journals/gmas20). He also served or serves on the Editorial Boards for the journals [*Social Networks*](https://www.journals.elsevier.com/social-networks/), [*Sociological Perspectives*](https://journals.sagepub.com/home/spx), [*Population and Environment*](https://www.springer.com/journal/11111/), and  [*Sociological Methodology*](http://journals.sagepub.com/home/smx).
+He is the Editor-in-Chief of the [*Journal of Mathematical Sociology*](https://www.tandfonline.com/journals/gmas20). He also served or serves on the Editorial Boards for the journals [*Social Networks*](https://www.journals.elsevier.com/social-networks/), [*Sociological Perspectives*](https://journals.sagepub.com/home/spx), [*Population and Environment*](https://www.springer.com/journal/11111/), and  [*Sociological Methodology*](http://journals.sagepub.com/home/smx).
 
 **Research Interests**
 
