@@ -38,7 +38,7 @@ Past Appointments
 ======
 
 * University of Washington
-  * 2020 - 2024 Training Core PI, CSDE
+  * 2021 - 2024 Training Core PI, CSDE
   * 2020 - 2022 Assistant Professor, Department of Sociology
 * Meta (Formerly Facebook), Inc
   * 2018 - 2020 Research Scientist, Demography and Survey Science
