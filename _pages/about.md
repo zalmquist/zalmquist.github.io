@@ -25,7 +25,7 @@ He is the Editor-in-Chief of the [*Journal of Mathematical Sociology*](https://w
 
 **Research Interests**
 
-Prof Almquist’s research centers on developing and applying mathematical, computational, and statistical methodology to the problems and theory of social networks, demography, education, homelessness, and environmental action and governance. His current research program is focused on understanding crucial issues around housing and homelessness, environmental action and governance, and social network methods. His research has been published in highly regarded peer-reviewed journals such as the <i>Proceedings of the National Academy of Sciences</i>, <i>American Journal of Epidemiology</i>, <i>Journal of Computational and Graphical Statistics</i>, <i>Sociological Methods & Research</i>, <i>Sociological Methodology</i>, <i>Population Space and Place<i>, <i>Mathematical Population Studies</i>, <i>American Journal of Human Biology</i> and <i>Political Analysis</i>.
+Prof Almquist’s research centers on developing and applying mathematical, computational, and statistical methodology to the problems and theory of social networks, demography, education, homelessness, and environmental action and governance. His current research program is focused on understanding crucial issues around housing and homelessness, environmental action and governance, and social network methods. 
 
 ------
 
