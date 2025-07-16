@@ -30,7 +30,7 @@ Professor Almquist specializes in developing and applying innovative methodologi
 **Public Outreach**
 
 * [Q&A: After developing a better way to count homelessness, UW researchers discuss how more accurate data can help providers and people](https://www.washington.edu/news/2024/10/29/qa-after-developing-a-better-way-to-count-homelessness-uw-researchers-discuss-how-more-accurate-data-can-help-providers-and-people/)
-* King County Regional Homelessness Authority's 2024 Report on the [Almquist et al (2025)](https://academic.oup.com/aje/article-abstract/194/6/1524/7749332)'s  Respondent Driven Sampling approach to counting unsheltered homelessness is now available!
+* King County Regional Homelessness Authority's 2024 Report on implementing the [Almquist et al (2025)](https://academic.oup.com/aje/article-abstract/194/6/1524/7749332)'s  Respondent Driven Sampling approach to counting people experiencing unsheltered homelessness is now available!
     * [King County 2024 Point in Time Count](https://kcrha.org/wp-content/uploads/2025/05/Point-in-Time-Count-2024_King-County_final.pdf)
 
 ------
