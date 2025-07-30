@@ -32,13 +32,13 @@ People
 * Ihsan Kahveci, PhD Student in Sociology, UW
 * Elizabeth Nova, PhD Student in Sociology, UW (DSDT Fellow)
 * Brandon Morande, PhD Student in Sociology, UW
-* Larisa Ozeryansky, PhD Student in Interdisciplinary Studies, UW
 
 ### Alumni
 
 * Aja Sutton, PhD Geography - Postdoc Stanford University
 * June Yang, PhD Sociology - Research Scientist at CSDE & eScience, UW
 * Connor Gilroy, PhD Sociology - Blue Rose Research
+* Larisa Ozeryansky, PhD, Interdisciplinary Studies - Assistant Professor, University of Tennessee Public Health
 
 Current Funding
 ===
@@ -53,7 +53,7 @@ Past Funding
 * *2022-2023* &nbsp; &nbsp; Hagopian, A., Kajfasz, O., Zhao, B., Hebert, P., Almquist, Z., Luo, G. and Dobra, A. “Innovating better methods to enumerate individuals experiencing homelessness.” The University of Washington Population Health Initiative’s Tier 2 Pilot Grant with support from CSDE and the Department of Health Systems and Population Health. $106,822.
 * *2022-2023*  &nbsp; &nbsp; Williams, N., Almquist, Z.W., Crowder, K., Curran, S., Ellis, M. Herting, J., and Louie, P. “Feasibility Study for Puget Sound Longitudinal Health and Wellbeing Data Project: Sound Data for a Healthy Sound.” Royalty Research Fund (RRF), University of Washington. $39,192.
 * *2022-2023*  &nbsp; &nbsp; de la Iglesia, H., Martin, M. and Almquist, Z.W. “Sleep health in people experiencing homelessness.” University of Washington Population Health Initiative’s Tier 1 Pilot Grant Program with support from CSDE and the Department of Biology. $38,468.91.
-* *2020-2024* &nbsp; &nbsp; Curran, S.R. (PI), McCormick, T. (Co-PI), Wakefield, J. (Co-PI), Almquist, Z. (Co-PI)."T32 Data Science for Demographic & Population Health Training at the University of Washington." Grant \#1T32HD101442-01, [NIH NICHD](https://reporter.nih.gov/search/QJR-T7s59EKdjpEKXJpfiQ/project-details/9934811). $1,824,000.
+* *2020-2024* &nbsp; &nbsp; Curran, S.R. (PI), McCormick, T. (Co-PI), Wakefield, J. (Co-PI), Almquist, Z. (Co-PI)."T32 Data Science for Demographic & Population Health Training at the University of Washington." Grant \#5T32HD101442-04, [NIH NICHD](https://reporter.nih.gov/search/QJR-T7s59EKdjpEKXJpfiQ/project-details/9934811). $1,824,000.
 * *2020-2023* &nbsp; &nbsp; Jones, J.H. (PI),  Kline, M.  (Co-PI), Smaldino, P.  (Co-PI), Moya, C.  (Co-PI),  and Almquist, Z.W. (Co-PI). "RAPID: Coupled Contagion, Behavior-Change, and the Dynamics of Pro and Anti-Social Behavior During the COVID-19 Pandemic." Grant \#BCS-2028160, [NSF, Behavioral and Cognitive Sciences (BCS), Cultural Anthropology (CA)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2028160). $233,283.
 * *2019-2022* &nbsp; &nbsp; Nicholas Sidiropoulos, N. (PI), Xiao Fu (Co-PI), and Zack W. Almquist(Co-PI). “Geometric Factorization Tools for Community Mining” Award \#W911NF-19-1-0407, [Army Research Office](http://www.arl.army.mil/www/default.cfm?page=29). $550,000.
 * *2014-2017* &nbsp; &nbsp; Zack W. Almquist (PI). "Scalable Temporal Network Models with Population Dynamics: Estimation, Simulation, and Prediction." Award #W911NF-14-1-0577, Young Investigator Program, [Army Research Office](http://www.arl.army.mil/www/default.cfm?page=29). $146,079.
