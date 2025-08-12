@@ -13,7 +13,7 @@ redirect_from:
 
 **Awards and Grants**
 
-Prof. Almquist has received two major honors from the American Sociological Association (ASA): the [Leo Goodman Award](https://www.asanet.org/communities-sections/sections/current-sections/methodology/methodology-award-recipient-history) from the Section on [Methodology's](https://www.asanet.org/asa-communities/sections/methodology) and the [Outstanding Dissertation Award](http://www.asanet.org/sections/mathematical_past_recipients.cfm) from the Section on [Mathematical Sociology's](http://www.asanet.org/asa-communities/sections/mathematical-sociology).
+Prof. Almquist has received two major honors from the American Sociological Association (ASA): The [Leo Goodman Award](https://www.asanet.org/communities-sections/sections/current-sections/methodology/methodology-award-recipient-history) from the Section on [Methodology's](https://www.asanet.org/asa-communities/sections/methodology) and the [Outstanding Dissertation Award](http://www.asanet.org/sections/mathematical_past_recipients.cfm) from the Section on [Mathematical Sociology's](http://www.asanet.org/asa-communities/sections/mathematical-sociology).
 
 Dr. Almquist is a recipient of the [NSF's](https://www.nsf.gov/) [CAREER](https://beta.nsf.gov/funding/opportunities/faculty-early-career-development-program-career) Award and the [ARO's](http://www.arl.army.mil/www/default.cfm?page=29) Young Investigator Program Award. His research has been funded by the [NSF](http://www.nsf.gov/ ), [NIH](https://www.nichd.nih.gov/), [ARO](http://www.arl.army.mil/www/default.cfm?page=29), [University of Minnesota](http://www.umn.edu/), and the [University of Washington](https://www.washington.edu/). 
 
