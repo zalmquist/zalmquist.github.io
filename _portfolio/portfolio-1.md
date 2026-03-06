@@ -41,6 +41,7 @@ My research has focused on improving our understanding of population size and th
   Understanding the personal networks of people experiencing homelessness in King County, WA with aggregate relational data. <i>Social Networks</i>.
 *  Sutton, A., Walker, W., Hagopian, A., &amp; Almquist, Z. W. (2026). Encampments as neighbors: Encampment location and proximity to amenities 
   among Seattle, WA's unhoused population. <i>Cities<i>, 168, 106348.
+* Almquist, Z. W., P. Hebert, and A. Hagopian (2025). Does Demography Have a Role in Measuring Homelessness? Insights and Approaches in the United States. <i>Vienna Yearbook of Population Research</i> 23, 1–29.
 * Almquist, Z. W., I. Kahveci, A. Hazel, O. Kajfasz, J. Rothfolk, C. Guilmette, M. Anderson, L. Ozeryansky, and A. Hagopian (in press). Innovating a Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A Network Sampling Approach for the HUD-Mandated Point-in-Time Count. <i>American Journal of Epidemiology</i>, 194 (6), 1524-1533.
 * Anderson, M.C., A. Hazel, J. M. Perkins, and Z. W. Almquist (2024). Identity and Generosity Norms Among People Experiencing Homelessness in Nashville, TN: A Dictator Game Experiment. <i>International Journal on Homelessness</i>, 3(3), 1–13.
 * Anderson, M. C., A. Hazel, J. M. Perkins, and Z. W. Almquist (2021). The Ecology of Unsheltered Homelessness: Environmental and Social-Network Predictors of Well-Being among an Unsheltered Homeless Population. <i>International Journal of Environmental Research and Public Health</i> 18(14), 7328.
