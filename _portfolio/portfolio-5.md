@@ -33,6 +33,7 @@ Journal of Statistical Software 37(6), 1–31.
 * Almquist, Z. W., I. Kahveci, A. Hazel, O. Kajfasz, J. Rothfolk, C. Guilmette, M. Anderson, L. Ozeryansky, and
 A. Hagopian (2025). Innovating a Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A Network Sampling Approach for the HUD-Mandated Point-in-Time Count.
 American Journal of Epidemiology 194(6), 1524–1533.
+* Bagozzi, B. E., D. Berliner, and Z. W. Almquist (2021). When Does Open Government Shut? Predicting Government Responses to Citizen Information Requests. Regulation & Governance 15(2), 280–297.
 * Almquist, Z. W., N. E. Helwig, and Y. You (2020). Connecting Continuum of Care Point-in-Time Homeless
 Counts to United States Census Areal Units. Mathematical Population Studies 27(1), 46–58.
 * Almquist, Z. W., S. Arya, L. Zeng, and E. S. Spiro (2019). Unbiased Sampling of Users from (Online) Activity
