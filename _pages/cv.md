@@ -28,6 +28,7 @@ Primary Appointments
 
 Affiliations
 ======
+* Faculty Fellow The Center for an Informed Public
 * Faculty Affiliate The Center for Studies in Demography and Ecology
 * Faculty Affiliate Urban@UW
 * Faculty Affiliate The Center for Statistics and the Social Sciences
@@ -38,6 +39,7 @@ Past Appointments
 ======
 
 * University of Washington
+  * 2022 - 2026 Associate Professor, Department of Sociology
   * 2021 - 2024 Training Core PI, CSDE
   * 2020 - 2022 Assistant Professor, Department of Sociology
 * Meta (Formerly Facebook), Inc
