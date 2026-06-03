@@ -35,7 +35,7 @@ units. Demographic Research 26(22), 593–632.
 
 ## Dynamic Network Models
 
-**Peer Reviewed Articles**
+**Peer Reviewed Articles and Working Papers**
 
 * Mallik, A. and Z. W. Almquist (2019). Stable Multiple Time Step Simulation/Prediction from Lagged Dynamic Network Regression Models. Journal of Computational and Graphical Statistics 28(4), 967–979.
 * Almquist, Z. W. and C. T. Butts (2018). Dynamic Network Analysis with Missing Data: Theory and Methods.
@@ -46,16 +46,20 @@ PA: Elsevier.
 * Almquist, Z. W. and C. T. Butts (2014). “Bayesian Analysis of Dynamic Network Regression with Joint Edge/Vertex Dynamics”. In: Bayesian Inference in the Social Sciences. Ed. by I. Jeliazkov and X.-S. Yang. Hoboken, New Jersey: John Wiley & Sons.
 * Almquist, Z. W. and C. T. Butts (2014). Logistic Network Regression for Scalable Analysis of Networks with Joint Edge/Vertex Dynamics. Sociological Methodology 44(1), 273–321.
 * Almquist, Z. W. and C. T. Butts (2013). Dynamic Network Logistic Regression: A Logistic Choice Analysis of Inter- and Intra-group Blog Citation Dynamics in the 2004 US Presidential Election. Political Analysis 21(4), 430–448.
+* Valluvan, R., Z. W. Almquist, A. Anandkumar, and C. T. Butts (2012). Modeling Dynamic Social Networks with Vertex Evolution via Latent Graphical Models. Poster presentation at the 2012 NIPS Workshop on Social Network and Social Media Analysis, Lake Tahoe, NV.
 
 ## Personal Networks/Egocentric Networks/Network Sampling
 
-**Peer Reviewed Articles**
+**Peer Reviewed Articles and Working Papers**
 * Almquist, Z., I. Kahveci, O. Kajfasz, J. Rothfolk, and A. Hagopian (2026). Understanding the Personal Networks of People Experiencing Homelessness in King County, WA with Aggregate Relational Data. Social Networks 86, 150–172.
 * Almquist, Z. W., I. Kahveci, A. Hazel, O. Kajfasz, J. Rothfolk, C. Guilmette, M. Anderson, L. Ozeryansky, and
 A. Hagopian (2025). Innovating a Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A Network Sampling Approach for the HUD-Mandated Point-in-Time Count.
 American Journal of Epidemiology 194(6), 1524–1533.
+* Almquist, Z. W., A. Hazel, O. Kajfasz, J. Rothfolk, C. Guilmette, M. Anderson, L. Ozeryansky, and A. Hagopian (2023). Network Sampling Methods for Estimating Social Networks, Population Percentages, and Totals of People Experiencing Unsheltered Homelessness. arXiv preprint arXiv:2309.03875.
+* Neal, Z. P., Z. Almquist, J. Bagrow, A. Clauset, et al. (2024). Recommendations for sharing network data and materials. Network Science 12(4), 404–417.
 * Almquist, Z. W., S. Arya, L. Zeng, and E. S. Spiro (2019). Unbiased Sampling of Users from (Online) Activity
 Data. Field Methods 31(1), 23–38.
+* Nilakanta, H., Z. W. Almquist, and G. L. Jones (2019). Ensuring Reliable Monte Carlo Estimates of Network Properties. arXiv preprint arXiv:1911.08682.
 * Almquist, Z. W. (2012). Random errors in egocentric networks. Social Networks 34(4), 493–505.
 * Kurant, M., M. Gjoka, Y. Wang, Z. W. Almquist, C. T. Butts, and A. Markopoulou (2012). Coarse-Grained Topology Estimation via Graph Sampling. In: Proceedings of ACM SIGCOMM Workshop on Online Social Networks (WOSN) ’12. Helsinki, Finland.
 

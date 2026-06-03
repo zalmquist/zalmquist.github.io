@@ -35,7 +35,7 @@ My research has focused on improving our understanding of population size and th
 
 * <a href="https://uwescience.github.io/DSSG2024_understanding_homelessness/">2023 UW King County Understanding Homelessness Project</a>
 
-<b>Peer Reviewed Articles</b>
+<b>Peer Reviewed Articles and Working Papers</b>
 
 * Almquist, Z., Kahveci, I., Kajfasz, O., Rothfolk, J., &amp; Hagopian, A. (2026). 
   Understanding the personal networks of people experiencing homelessness in King County, WA with aggregate relational data. <i>Social Networks</i>, 86, 150–172.
@@ -44,6 +44,7 @@ My research has focused on improving our understanding of population size and th
 * Almquist, Z. W., P. Hebert, and A. Hagopian (2025). Does Demography Have a Role in Measuring Homelessness? Insights and Approaches in the United States. <i>Vienna Yearbook of Population Research</i> 23, 1–29.
 * Almquist, Z. W., I. Kahveci, A. Hazel, O. Kajfasz, J. Rothfolk, C. Guilmette, M. Anderson, L. Ozeryansky, and A. Hagopian (2025). Innovating a Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A Network Sampling Approach for the HUD-Mandated Point-in-Time Count. <i>American Journal of Epidemiology</i>, 194 (6), 1524-1533.
 * Anderson, M.C., A. Hazel, J. M. Perkins, and Z. W. Almquist (2024). Identity and Generosity Norms Among People Experiencing Homelessness in Nashville, TN: A Dictator Game Experiment. <i>International Journal on Homelessness</i>, 3(3), 1–13.
+* Almquist, Z. W., A. Hazel, O. Kajfasz, J. Rothfolk, C. Guilmette, M. Anderson, L. Ozeryansky, and A. Hagopian (2023). Network Sampling Methods for Estimating Social Networks, Population Percentages, and Totals of People Experiencing Unsheltered Homelessness. <i>arXiv preprint</i> arXiv:2309.03875.
 * Anderson, M. C., A. Hazel, J. M. Perkins, and Z. W. Almquist (2021). The Ecology of Unsheltered Homelessness: Environmental and Social-Network Predictors of Well-Being among an Unsheltered Homeless Population. <i>International Journal of Environmental Research and Public Health</i> 18(14), 7328.
 * Almquist, Z. W. (2020). Large-scale Spatial Network Models: An application to modeling information diffusion through the homeless population of San Francisco. <i>Environment and Planning B: Urban Analytics and City Science</i> 47(3), 523–540
 * Almquist, Z. W., N. E. Helwig, and Y. You (2020). Connecting Continuum of Care Point-in-Time Homeless Counts to United States Census Areal Units. <i>Mathematical Population Studies</i> 27(1), 46–58.

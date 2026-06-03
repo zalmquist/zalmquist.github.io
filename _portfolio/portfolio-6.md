@@ -15,7 +15,8 @@ using Facebook data. IDMC Global Rep. Internal Displacement (GRID), Geneva, Swit
 
 # Spatial Demography
 
-**Peer Reviewed Articles**
+**Peer Reviewed Articles and Working Papers**
+* Sutton, A., Z. W. Almquist, and J. Wakefield (2025). Evaluating Multilevel Regression and Poststratification with Spatial Priors with a Big Data Behavioural Survey. arXiv preprint arXiv:2503.05915.
 * Sutton, A. and Z. W. Almquist (2023). “Small Area Estimation for Demographic Analysis”. In: Population and Development in the 21st Century: Between the Anthropocene and Anthropocentrism. Ed. by P. M. Eloundou-Enyegue. IntechOpen.
 * Thomas, L. J., P. Huang, F. Yin, J. Xu, Z. W. Almquist, J. R. Hipp, and C. T. Butts (2022). Geographical Patterns of
 Social Cohesion Drive Disparities in Early COVID Infection Hazard. Proceedings of the National Academy of
@@ -35,6 +36,9 @@ Journal of Statistical Software 37(6), 1–31.
 # Health
 
 **Peer Reviewed Articles**
+* Huang, P., Z. W. Almquist, and C. T. Butts (2025). Endogenous Competition and the Underrealized Reproduction of Infectious Diseases. Proceedings of the National Academy of Sciences 122(23).
+* Almquist, Z. W., C. Allen, and I. Kahveci (2025). “Computational Demography and Health.” In: Handbook of Computational Social Science. Ed. by T. Yasseri. Edward Elgar Publishing.
+* Almquist, Z. W., P. Hebert, and A. Hagopian (2025). Does Demography Have a Role in Measuring Homelessness? Insights and Approaches in the United States. Vienna Yearbook of Population Research 23, 1–29.
 * Almquist, Z. W., I. Kahveci, A. Hazel, O. Kajfasz, J. Rothfolk, C. Guilmette, M. Anderson, L. Ozeryansky, and
 A. Hagopian (2025). Innovating a Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A Network Sampling Approach for the HUD-Mandated Point-in-Time Count.
 American Journal of Epidemiology 194(6), 1524–1533.

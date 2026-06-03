@@ -26,6 +26,7 @@ My work in this set of projects is focused on understanding social networks in t
 
 <b>Peer Reviewed Articles</b>
 
+* Almquist, Z. W., B. E. Bagozzi, and D. Blinova (2025). Historical Spatio-Temporal Data on North American Radical Environmental Direct-Action Events. <i>Data in Brief</i> 60, 111543.
 * Almquist, Z.W. and B. E. Bagozzi (2020). Automated Text Analysis for Understanding Radical Activism: The Topical Agenda of the North American Animal Liberation Movement. <i>Research and Politics</i> 7(2), 1-8.
 * Almquist, Z.W. and B. E. Bagozzi (2019). Using Radical Environmental Texts to Uncover Network Structure and Network Features. <i>Sociological Methods & Research</i> 48(4), 905–960.
 * Almquist, Z.W. and B. E. Bagozzi (2016). The Spatial Properties of Radical Environmental Organizations in the UK: Do or Die! <i>PloS ONE</i> 11(11), 1–19.

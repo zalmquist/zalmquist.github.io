@@ -12,6 +12,7 @@ I'm actively engaged in a research agenda focused on modeling and measuring the 
 
 **Peer Reviewed Articles**
 
+* Huang, P., Z. W. Almquist, and C. T. Butts (2025). Endogenous Competition and the Underrealized Reproduction of Infectious Diseases. *Proceedings of the National Academy of Sciences* 122(23).
 * Yang, J., Z. W. Almquist, and J. H. Jones (2025). Political and Educational Dynamics behind the Evangelicals’ Stance against Mask Mandates during COVID-19 in the U.S. *Social Science Research* 125.
 * Ford, J. D., D. Marengo, M. Olff, C. Armour, J. D. Elhai, Z. W. Almquist, and E. S. Spiro (2022). Temporal Trends in Health Worker Social Media Communication During the COVID-19 Pandemic. *Research in Nursing & Health* 45(6).
 * Thomas, L. J., P. Huang, F. Yin, J. Xu, Z. W. Almquist, J. R. Hipp, and C. T. Butts (2022). Geographical Patterns of Social Cohesion Drive Disparities in Early COVID Infection Hazard. *Proceedings of the National Academy of Sciences* 119(22).

@@ -6,8 +6,10 @@ collection: portfolio
 
 ## Statistics Journals
 
-**Peer Reviewed Articles**
+**Peer Reviewed Articles and Working Papers**
 
+* Sutton, A., Z. W. Almquist, and J. Wakefield (2025). Evaluating Multilevel Regression and Poststratification with Spatial Priors with a Big Data Behavioural Survey. arXiv preprint arXiv:2503.05915.
+* Nilakanta, H., Z. W. Almquist, and G. L. Jones (2019). Ensuring Reliable Monte Carlo Estimates of Network Properties. arXiv preprint arXiv:1911.08682.
 * Mallik, A. and Z. W. Almquist (2019). Stable Multiple Time Step Simulation/Prediction from Lagged Dynamic
 Network Regression Models. Journal of Computational and Graphical Statistics 28(4), 967–979.
 * Almquist, Z. W. and C. T. Butts (2018). Dynamic Network Analysis with Missing Data: Theory and Methods.
