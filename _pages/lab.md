@@ -22,7 +22,7 @@ People
 
 ### PI
 
-* Zack W. Almquist, Associate Professor, UW
+* Zack W. Almquist, Professor, UW
 
 ### Graduate Students
 
