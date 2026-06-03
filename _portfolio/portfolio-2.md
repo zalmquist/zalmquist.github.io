@@ -4,7 +4,7 @@ excerpt: "<img src='/images/seattle.png'>"
 collection: portfolio
 ---
 
-I'm actively engaged in a research agenda focused on modeling and measuring the spread of COVID-19 through human networks and on the process of information spread during pandemics (Ford et al, 2022). The first two papers (Thomas et al., 2020, 2022) emphasize the importance of considering variations in micro-geography and social networks to truly understand how COVID-19 spreads. A third paper is a comprehensive review of current strategies for modeling COVID-19, covering both micro and macro-level simulations (Jones, Hazel, & Almquist, 2020). My current work, supported by NSF funding, centers on analyzing data collected longitudinally over the course of the COVID-19 pandemic.
+I'm actively engaged in a research agenda focused on modeling and measuring the spread of COVID-19 through human networks and on how information spreads during pandemics (Ford et al., 2022). The first two papers (Thomas et al., 2020, 2022) emphasize the importance of considering variations in micro-geography and social networks to truly understand how COVID-19 spreads. A third paper is a comprehensive review of current strategies for modeling COVID-19, covering both micro and macro-level simulations (Jones, Hazel, & Almquist, 2020). My current work, supported by NSF funding, centers on analyzing data collected longitudinally over the course of the COVID-19 pandemic.
 
 **Funding**
 
