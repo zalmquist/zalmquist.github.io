@@ -27,14 +27,14 @@ People
 ### Graduate Students
 
 * Zach Brown, PhD Student in Sociology, UW
-* David Coomes, PhD Student in Epidemiology, UW (DSDT Fellow)
 * Yehong Deng, PhD Student in Sociology, UW
-* Ihsan Kahveci, PhD Student in Sociology, UW
 * Elizabeth Nova, PhD Student in Sociology, UW (DSDT Fellow)
 * Brandon Morande, PhD Student in Sociology, UW
 
 ### Alumni
 
+* Ihsan Kahveci, PhD Sociology - Postdoc, Oxford University, UK
+* David Coomes, PhD Epidemiology (DSDT Fellow)
 * Aja Sutton, PhD Geography - Postdoc Stanford University
 * June Yang, PhD Sociology - Research Scientist at CSDE & eScience, UW
 * Connor Gilroy, PhD Sociology - Blue Rose Research
