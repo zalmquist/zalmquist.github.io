@@ -29,13 +29,13 @@ Journal of Statistical Software 37(6), 1–31.
 **Peer Reviewed Articles**
 
 * Almquist, Z. W., I. Kahveci, A. Hazel, O. Kajfasz, J. Rothfolk, C. Guilmette, M. Anderson, L. Ozeryansky, and
-A. Hagopian (2024). Innovating a Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A Network Sampling Approach for the HUD-Mandated Point-in-Time Count.
-American Journal of Epidemiology.
+A. Hagopian (2025). Innovating a Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A Network Sampling Approach for the HUD-Mandated Point-in-Time Count.
+American Journal of Epidemiology 194(6), 1524–1533.
 * Almquist, Z. W., N. E. Helwig, and Y. You (2020). Connecting Continuum of Care Point-in-Time Homeless
 Counts to United States Census Areal Units. Mathematical Population Studies 27(1), 46–58.
 * Almquist, Z. W., S. Arya, L. Zeng, and E. S. Spiro (2019). Unbiased Sampling of Users from (Online) Activity
 Data. Field Methods 31(1), 23–38.
-* Butts, C. T. and Z. W. Almquist (2015). A Flexible Parameterization for Baseline Mean Degree in MultipleNetwork ERGMs. The Journal of Mathematical Sociology 39(3), 163–167.
+* Butts, C. T. and Z. W. Almquist (2015). A Flexible Parameterization for Baseline Mean Degree in Multiple-Network ERGMs. The Journal of Mathematical Sociology 39(3), 163–167.
 * Almquist, Z. W. and C. T. Butts (2015). Predicting Regional Self-Identification from Spatial Network Models.
 Geographical Analysis 47(1), 50–72.
 * Almquist, Z. W. and C. T. Butts (2014). Logistic Network Regression for Scalable Analysis of Networks with

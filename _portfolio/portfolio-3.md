@@ -10,14 +10,13 @@ My work in this set of projects is focused on understanding social networks in t
 
 ## Environmental Governance
 
-<b>Organizational Decision-making in the face of climate change:</b> [Dr. Benjamin Bagozzi](https://www.benjaminbagozzi.com/), and I am engaged in creating several large-scale dynamic networks with direct application to governmental policy and decision-making regarding climate change. International climate change negotiations often are undertaken at an annual Conference of the Parties (COPs) to the United Nations Framework Convention on Climate Change (UNFCCC). The UNFCCC’s 21st COP (held in late November 2015) served as a watershed moment, given its mandate to achieve a legally binding universal agreement on climate change among all the world's nations. We have conducted an original analysis of the country-level relations network underlying these international climate change negotiations through text and network methods. 
+<b>Organizational Decision-making in the face of climate change:</b> [Dr. Benjamin Bagozzi](https://www.benjaminbagozzi.com/) and I are engaged in creating several large-scale dynamic networks with direct application to governmental policy and decision-making regarding climate change. International climate change negotiations often are undertaken at an annual Conference of the Parties (COPs) to the United Nations Framework Convention on Climate Change (UNFCCC). The UNFCCC’s 21st COP (held in late November 2015) served as a watershed moment, given its mandate to achieve a legally binding universal agreement on climate change among all the world's nations. We have conducted an original analysis of the country-level relations network underlying these international climate change negotiations through text and network methods. 
 
-<b>Working Papers</b>
+<b>Peer Reviewed Articles and Book Chapters</b>
 
-* Almquist, Z. W., B. E. Bagozzi, D. Blinova, and Z. Brown (2024). In Search for Common Ground: Exploring
-Value Networks at the UNFCCC Climate Change Talks. Submitted to Network Science.
-* Almquist, Z. W., B. E. Bagozzi, D. Blinova, and Z. Brown (2024). Dynamic Networks of Negotiation for International Climate Change Cooperation. Submitted to Environmental Sociology.
-* Almquist, Z. W., B. E. Bagozzi, D. Blinova, Z. Brown and M. Rulis (2024). Network Drivers of Organizational Diversity and Participation Across 30 Years of International Climate Change Negotiations. Submitted to Research in the Sociology of Organizations.
+* Almquist, Z. W., B. E. Bagozzi, D. Blinova, and Z. Brown (2026). In search of common ground: Exploring Value Networks at the UNFCCC Climate Change Talks. <i>Network Science</i> 14, e7.
+* Almquist, Z. W., B. E. Bagozzi, D. Blinova, and Z. Brown (2025). Dynamic Networks of Negotiation for International Climate Change Cooperation. <i>Environmental Sociology</i>.
+* Almquist, Z. W., B. E. Bagozzi, and D. Blinova (2026). “Network Drivers of Organizational Diversity and Participation Across 30 Years of International Climate Change Negotiations.” In: <i>Organizations and Climate Change</i>. Ed. by I. B. Vasi and E. Walker. Emerald Publishing.
 
 ---
 
@@ -35,14 +34,13 @@ Value Networks at the UNFCCC Climate Change Talks. Submitted to Network Science.
 
 ## Disaster Response
 
-**Evacuation and Displacement Due to Climate Change and Disasters:** I have been engaged in modeling the network dynamics of organizational decision-making during disasters, focusing on hurricanes and fires. Recently, in collaboration with Facebook Data for Good (JW Schneider (Demography and Survey Science, Facebook) and Paige Maas (Core Data Science, Facebook)), we surveyed displaced and evacuated individuals post-natural disasters. We have so far surveyed after Floods in India and Bushfires in Australia. The first paper on this is available on Arxiv (Maas et al., 2020) and is currently under review. It is the basis for Internal Displacement Monitoring Centre (IDMC) estimates on displacement. 
+**Evacuation and Displacement Due to Climate Change and Disasters:** I have been engaged in modeling the network dynamics of organizational decision-making during disasters, focusing on hurricanes and fires. Recently, in collaboration with Facebook Data for Good (JW Schneider (Demography and Survey Science, Facebook) and Paige Maas (Core Data Science, Facebook)), we surveyed displaced and evacuated individuals post-natural disasters. We have so far surveyed after Floods in India and Bushfires in Australia. The first paper on this is available on arXiv (Maas et al., 2025) and is currently under review. It is the basis for Internal Displacement Monitoring Centre (IDMC) estimates on displacement. 
 
 <b>Peer Reviewed Articles and Policy Reports</b>
 
 * Almquist, Z. W., E. S. Spiro, and C. T. Butts (2016). “Shifting Attention: Modeling Follower Relationship Dynamics among US Emergency Management-related Organizations During a Colorado Wildfire.” In: Social Network Analysis of Disaster Response, Recovery, and Adaptation. Ed. by A. Faas and E. Jones. Philadelphia,
 PA: Elsevier.
-* Maas, P., Z. W. Almquist, E. Giraudy, and J. Schneider (2020). Using social media to measure demographic responses to natural disaster: Insights from a large-scale Facebook survey following the 2019 Australia
-Bushfires. arXiv preprint arXiv: 2008.03665.
+* Maas, P., Z. W. Almquist, E. Giraudy, and J. Schneider (2025). Evacuation decisions in response to natural disasters: Insights from a large-scale social media survey. arXiv preprint arXiv:2008.03665.
 * Almquist, Z. W. and C. T. Butts (2014). Evolving Context: Evidence from Temporal Change in Organizational Collaboration over the course of the 2005 Katrina Disaster.
 * Giraudy, E., P. Maas, S. Iyer, Z. Almquist, J. Schneider, and A. Dow (2021). Measuring long-term displacement using Facebook data. IDMC Global Rep. Internal Displacement (GRID), Geneva, Switzerland, Tech. Rep.
 

@@ -9,16 +9,14 @@ collection: portfolio
 **Peer Reviewed Articles, Working Papers and Policy Reports**
 * Giraudy, E., P. Maas, S. Iyer, Z. Almquist, J. Schneider, and A. Dow (2021). Measuring long-term displacement
 using Facebook data. IDMC Global Rep. Internal Displacement (GRID), Geneva, Switzerland, Tech. Rep.
-* Almquist, Z. W., T. D. Nguyen, M. Sorensen, X. Fu, and N. D. Sidiropoulos (2021). Uncovering migration systems
-through spatio-temporal tensor co-clustering. arXiv: 2112.15296 [stat.AP].
-* Maas, P., Z. W. Almquist, E. Giraudy, and J. Schneider (2020). Using social media to measure demographic responses to natural disaster: Insights from a large-scale Facebook survey following the 2019 Australia
-Bushfires. arXiv preprint arXiv: 2008.03665.
+* Almquist, Z. W., T. D. Nguyen, M. Sorensen, X. Fu, and N. D. Sidiropoulos (2024). Uncovering migration systems through spatio-temporal tensor co-clustering. Scientific Reports 14(26861).
+* Maas, P., Z. W. Almquist, E. Giraudy, and J. Schneider (2025). Evacuation decisions in response to natural disasters: Insights from a large-scale social media survey. arXiv preprint arXiv:2008.03665.
 * Abel, G. J., J. DeWaard, J. Trang Ha, and Z. W. Almquist (2021). The Form and Evolution of International Migration Networks, 1960-2015. Population, Space and Place 27(3), 1–15.
 
 # Spatial Demography
 
 **Peer Reviewed Articles**
-* Sutton, A. and Z. W. Almquist (2023). “Small Area Estimation for Demographic Data”. In: Recent Trends in Demographic Data. Ed. by P. M. Eloundou-Enyegue. IntechOpen.
+* Sutton, A. and Z. W. Almquist (2023). “Small Area Estimation for Demographic Analysis”. In: Population and Development in the 21st Century: Between the Anthropocene and Anthropocentrism. Ed. by P. M. Eloundou-Enyegue. IntechOpen.
 * Thomas, L. J., P. Huang, F. Yin, J. Xu, Z. W. Almquist, J. R. Hipp, and C. T. Butts (2022). Geographical Patterns of
 Social Cohesion Drive Disparities in Early COVID Infection Hazard. Proceedings of the National Academy of
 Sciences 119(22).
@@ -38,10 +36,9 @@ Journal of Statistical Software 37(6), 1–31.
 
 **Peer Reviewed Articles**
 * Almquist, Z. W., I. Kahveci, A. Hazel, O. Kajfasz, J. Rothfolk, C. Guilmette, M. Anderson, L. Ozeryansky, and
-A. Hagopian (2024). Innovating a Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A Network Sampling Approach for the HUD-Mandated Point-in-Time Count.
-American Journal of Epidemiology.
-* Anderson, M., A. Hazel, J. M. Perkins, and Z. W. Almquist (2024). Identity and Generosity Norms Among People Experiencing Homelessness in Nashville, TN: A Dictator Game Experiment. International Journal on
-Homelessness.
+A. Hagopian (2025). Innovating a Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A Network Sampling Approach for the HUD-Mandated Point-in-Time Count.
+American Journal of Epidemiology 194(6), 1524–1533.
+* Anderson, M., A. Hazel, J. M. Perkins, and Z. W. Almquist (2024). Identity and Generosity Norms Among People Experiencing Homelessness in Nashville, TN: A Dictator Game Experiment. International Journal on Homelessness 3(3), 1–13.
 * Ford, J. D., D. Marengo, M. Olff, C. Armour, J. D. Elhai, Z. W. Almquist, and E. S. Spiro (2022). Temporal Trends
 in Health Worker Social Media Communication During the COVID-19 Pandemic. Research in Nursing &
 Health 45(6).

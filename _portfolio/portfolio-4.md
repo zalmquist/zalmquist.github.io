@@ -42,7 +42,7 @@ units. Demographic Research 26(22), 593–632.
 Statistica Sinica 28(3), 1245–1264.
 * Almquist, Z. W., E. S. Spiro, and C. T. Butts (2016). “Shifting Attention: Modeling Follower Relationship Dynamics among US Emergency Management-related Organizations During a Colorado Wildfire.” In: Social Network Analysis of Disaster Response, Recovery, and Adaptation. Ed. by A. Faas and E. Jones. Philadelphia,
 PA: Elsevier.
-* Butts, C. T. and Z. W. Almquist (2015). A Flexible Parameterization for Baseline Mean Degree in MultipleNetwork ERGMs. The Journal of Mathematical Sociology 39(3), 163–167.
+* Butts, C. T. and Z. W. Almquist (2015). A Flexible Parameterization for Baseline Mean Degree in Multiple-Network ERGMs. The Journal of Mathematical Sociology 39(3), 163–167.
 * Almquist, Z. W. and C. T. Butts (2014). “Bayesian Analysis of Dynamic Network Regression with Joint Edge/Vertex Dynamics”. In: Bayesian Inference in the Social Sciences. Ed. by I. Jeliazkov and X.-S. Yang. Hoboken, New Jersey: John Wiley & Sons.
 * Almquist, Z. W. and C. T. Butts (2014). Logistic Network Regression for Scalable Analysis of Networks with Joint Edge/Vertex Dynamics. Sociological Methodology 44(1), 273–321.
 * Almquist, Z. W. and C. T. Butts (2013). Dynamic Network Logistic Regression: A Logistic Choice Analysis of Inter- and Intra-group Blog Citation Dynamics in the 2004 US Presidential Election. Political Analysis 21(4), 430–448.
@@ -50,9 +50,10 @@ PA: Elsevier.
 ## Personal Networks/Egocentric Networks/Network Sampling
 
 **Peer Reviewed Articles**
+* Almquist, Z., I. Kahveci, O. Kajfasz, J. Rothfolk, and A. Hagopian (2026). Understanding the Personal Networks of People Experiencing Homelessness in King County, WA with Aggregate Relational Data. Social Networks 86, 150–172.
 * Almquist, Z. W., I. Kahveci, A. Hazel, O. Kajfasz, J. Rothfolk, C. Guilmette, M. Anderson, L. Ozeryansky, and
-A. Hagopian (2024). Innovating a Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A Network Sampling Approach for the HUD-Mandated Point-in-Time Count.
-American Journal of Epidemiology.
+A. Hagopian (2025). Innovating a Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A Network Sampling Approach for the HUD-Mandated Point-in-Time Count.
+American Journal of Epidemiology 194(6), 1524–1533.
 * Almquist, Z. W., S. Arya, L. Zeng, and E. S. Spiro (2019). Unbiased Sampling of Users from (Online) Activity
 Data. Field Methods 31(1), 23–38.
 * Almquist, Z. W. (2012). Random errors in egocentric networks. Social Networks 34(4), 493–505.
