@@ -61,7 +61,7 @@ Morande, B., Serry, K., Hagopian, A., &amp; Almquist, Z. W. (2026). Population A
 <div class="poster-col poster-air">
 <b>Spatial-temporal Analysis of Particulate Exposure in Those Experiencing Homelessness Compared to the Housed Population in Seattle, WA</b><br>
 Deng, Y., Gassett, A. J., Bi, J., Sutton, A., Kaufman, J. D., Flaxman, A. D., Hagopian, A., &amp; Almquist, Z. W. (2026). Population Association of America (PAA) Annual Meeting. [<a href="/files/PAA2026_Air_Quality_poster.pdf">PDF</a>]<br><br>
-<a href="/files/PAA2026_Air_Quality_poster.pdf"><img src="/images/paa2026_air_quality_poster.png" alt="Spatial-temporal analysis of particulate exposure poster"></a>
+<div style="text-align:center;"><a href="/files/PAA2026_Air_Quality_poster.pdf"><img src="/images/paa2026_air_quality_poster.png" alt="Spatial-temporal analysis of particulate exposure poster"></a></div>
 </div>
 
 </div>
