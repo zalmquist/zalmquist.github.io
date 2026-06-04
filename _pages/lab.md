@@ -43,18 +43,25 @@ People
 Posters
 ===
 
-<div style="display:flex; flex-wrap:wrap; gap:28px; align-items:flex-start;">
+<style>
+.poster-grid{display:flex;flex-wrap:wrap;gap:28px;align-items:flex-start;}
+.poster-grid .poster-col{flex:1 1 340px;}
+.poster-grid img{max-width:100%;height:auto;border:1px solid #ccc;}
+@media (min-width:700px){.poster-grid .poster-air img{max-width:56.25%;}}
+</style>
 
-<div style="flex:1 1 340px;">
+<div class="poster-grid">
+
+<div class="poster-col">
 <b>Forced Displacement of People Experiencing Homelessness: Housing and Movement Outcomes after Encampment Clearances</b><br>
 Morande, B., Serry, K., Hagopian, A., &amp; Almquist, Z. W. (2026). Population Association of America (PAA) Annual Meeting. <b>Winner, <a href="https://www.populationassociation.org/paa2026/poster-winners">PAA 2026 Best Poster Award</a></b> (P08 &mdash; Data and Methods / Applied Demography / Other). [<a href="/files/PAA2026_REACH_poster.pdf">PDF</a>]<br><br>
-<a href="/files/PAA2026_REACH_poster.pdf"><img src="/images/paa2026_reach_poster.png" alt="Forced Displacement of People Experiencing Homelessness poster" style="max-width:100%; height:auto; border:1px solid #ccc;"></a>
+<a href="/files/PAA2026_REACH_poster.pdf"><img src="/images/paa2026_reach_poster.png" alt="Forced Displacement of People Experiencing Homelessness poster"></a>
 </div>
 
-<div style="flex:1 1 340px;">
+<div class="poster-col poster-air">
 <b>Spatial-temporal Analysis of Particulate Exposure in Those Experiencing Homelessness Compared to the Housed Population in Seattle, WA</b><br>
 Deng, Y., Gassett, A. J., Bi, J., Sutton, A., Kaufman, J. D., Flaxman, A. D., Hagopian, A., &amp; Almquist, Z. W. (2026). Population Association of America (PAA) Annual Meeting. [<a href="/files/PAA2026_Air_Quality_poster.pdf">PDF</a>]<br><br>
-<a href="/files/PAA2026_Air_Quality_poster.pdf"><img src="/images/paa2026_air_quality_poster.png" alt="Spatial-temporal analysis of particulate exposure poster" style="max-width:100%; height:auto; border:1px solid #ccc;"></a>
+<a href="/files/PAA2026_Air_Quality_poster.pdf"><img src="/images/paa2026_air_quality_poster.png" alt="Spatial-temporal analysis of particulate exposure poster"></a>
 </div>
 
 </div>
