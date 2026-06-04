@@ -43,15 +43,21 @@ People
 Posters
 ===
 
-**Forced Displacement of People Experiencing Homelessness: Housing and Movement Outcomes after Encampment Clearances**  
-Morande, B., Serry, K., Hagopian, A., &amp; Almquist, Z. W. (2026). Population Association of America (PAA) Annual Meeting. **Winner, [PAA 2026 Best Poster Award](https://www.populationassociation.org/paa2026/poster-winners)** (P08 &mdash; Data and Methods / Applied Demography / Other). [[PDF](/files/PAA2026_REACH_poster.pdf)]
+<div style="display:flex; flex-wrap:wrap; gap:28px; align-items:flex-start;">
 
-<a href="/files/PAA2026_REACH_poster.pdf"><img src="/images/paa2026_reach_poster.png" alt="Forced Displacement of People Experiencing Homelessness poster" style="max-width:100%; width:640px; height:auto; border:1px solid #ccc;"></a>
+<div style="flex:1 1 340px;">
+<b>Forced Displacement of People Experiencing Homelessness: Housing and Movement Outcomes after Encampment Clearances</b><br>
+Morande, B., Serry, K., Hagopian, A., &amp; Almquist, Z. W. (2026). Population Association of America (PAA) Annual Meeting. <b>Winner, <a href="https://www.populationassociation.org/paa2026/poster-winners">PAA 2026 Best Poster Award</a></b> (P08 &mdash; Data and Methods / Applied Demography / Other). [<a href="/files/PAA2026_REACH_poster.pdf">PDF</a>]<br><br>
+<a href="/files/PAA2026_REACH_poster.pdf"><img src="/images/paa2026_reach_poster.png" alt="Forced Displacement of People Experiencing Homelessness poster" style="max-width:100%; height:auto; border:1px solid #ccc;"></a>
+</div>
 
-**Spatial-temporal Analysis of Particulate Exposure in Those Experiencing Homelessness Compared to the Housed Population in Seattle, WA**  
-Deng, Y., Gassett, A. J., Bi, J., Sutton, A., Kaufman, J. D., Flaxman, A. D., Hagopian, A., &amp; Almquist, Z. W. (2026). Population Association of America (PAA) Annual Meeting. [[PDF](/files/PAA2026_Air_Quality_poster.pdf)]
+<div style="flex:1 1 340px;">
+<b>Spatial-temporal Analysis of Particulate Exposure in Those Experiencing Homelessness Compared to the Housed Population in Seattle, WA</b><br>
+Deng, Y., Gassett, A. J., Bi, J., Sutton, A., Kaufman, J. D., Flaxman, A. D., Hagopian, A., &amp; Almquist, Z. W. (2026). Population Association of America (PAA) Annual Meeting. [<a href="/files/PAA2026_Air_Quality_poster.pdf">PDF</a>]<br><br>
+<a href="/files/PAA2026_Air_Quality_poster.pdf"><img src="/images/paa2026_air_quality_poster.png" alt="Spatial-temporal analysis of particulate exposure poster" style="max-width:100%; height:auto; border:1px solid #ccc;"></a>
+</div>
 
-<a href="/files/PAA2026_Air_Quality_poster.pdf"><img src="/images/paa2026_air_quality_poster.png" alt="Spatial-temporal analysis of particulate exposure poster" style="max-width:100%; width:480px; height:auto; border:1px solid #ccc;"></a>
+</div>
 
 Current Funding
 ===
