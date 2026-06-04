@@ -40,6 +40,12 @@ People
 * Connor Gilroy, PhD Sociology - Blue Rose Research
 * Larisa Ozeryansky, PhD, Interdisciplinary Studies - Assistant Professor, University of Tennessee Public Health
 
+Posters
+===
+
+* Morande, B., Serry, K., Hagopian, A., & Almquist, Z. W. (2026). "Forced Displacement of People Experiencing Homelessness: Housing and Movement Outcomes after Encampment Clearances." Population Association of America (PAA) Annual Meeting. [[PDF](/files/PAA2026_REACH_poster.pdf)] &mdash; **Winner, [PAA 2026 Best Poster Award](https://www.populationassociation.org/paa2026/poster-winners)** (P08 &mdash; Data and Methods / Applied Demography / Other).
+* Deng, Y., Gassett, A. J., Bi, J., Sutton, A., Kaufman, J. D., Flaxman, A. D., Hagopian, A., & Almquist, Z. W. (2026). "Spatial-temporal Analysis of Particulate Exposure in Those Experiencing Homelessness Compared to the Housed Population in Seattle, WA." Population Association of America (PAA) Annual Meeting. [[PDF](/files/PAA2026_Air_Quality_poster.pdf)]
+
 Current Funding
 ===
 
