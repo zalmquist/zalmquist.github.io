@@ -53,7 +53,7 @@ Almquist specializes in developing and applying innovative methodologies to addr
 <script>
 (function () {
   var HANDLE = "zalmquist.bsky.social";
-  var LIMIT = 5; /* posts to display */
+  var LIMIT = 3; /* posts to display */
   var el = document.getElementById("bsky-feed");
 
   function esc(s) {
@@ -76,7 +76,10 @@ Almquist specializes in developing and applying innovative methodologies to addr
     .then(function (r) { return r.ok ? r.json() : Promise.reject(r.status); })
     .then(function (data) {
       var posts = (data.feed || []).filter(function (item) {
-        return !item.reason && item.post && item.post.record && item.post.record.text;
+        if (item.reason || !item.post || !item.post.record || !item.post.record.text) return false;
+        var et = item.post.record.embed && item.post.record.embed["$type"];
+        var isQuote = et === "app.bsky.embed.record" || et === "app.bsky.embed.recordWithMedia";
+        return !isQuote;
       }).slice(0, LIMIT);
 
       if (!posts.length) {
