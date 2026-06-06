@@ -12,7 +12,7 @@ author_profile: true
 
 <figure style="width: 250px" class="align-right">
   <img src="/images/diff_fest3.png" alt="">
-  <figcaption><b>The SSDA Lab</b> works on a range of problems related to social networks, organizations, technology, and space. We are housed at the University of Washington and enjoy strong ties with our colleagues in Sociology, Statistics, CSDE, CSSS, iSchool, and eScience. Students interested in joining the lab should contact me (<a href="mailto:email:zalmquist@uw.edu">zalmquist@uw.edu </a>) for more information. </figcaption>
+  <figcaption><b>The SSDA Lab</b> works on a range of problems related to social networks, organizations, technology, and space. We are housed at the University of Washington and enjoy strong ties with our colleagues in Sociology, Statistics, CSDE, CSSS, iSchool, and eScience. Students interested in joining the lab should contact me (<a href="mailto:zalmquist@uw.edu">zalmquist@uw.edu </a>) for more information. </figcaption>
 </figure>
 
 -----
@@ -70,7 +70,7 @@ Current Funding
 ===
 
 * *2022-2027*  &nbsp; &nbsp; Almquist, Z. (PI). "CAREER: Measuring and Modeling the Multi-Modal Networks and Demographics of People Experiencing Homelessness.” Grant #SES-2142964, [NSF Social and Economic Sciences (SES), Sociology](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2142964&HistoricalAwards=false). $500,000.
-* *2024-2026* Almquist, Z.W. (Lead-PI), Hagopian, A., Hebert, P., McCormick, T., Yang, J., Kajfasz, O., Rothfolk, J., Carey, C. ``Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A high-frequency method for enumeration and needs assessment of the unsheltered population of people experiencing homelessness Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A high-frequency method for enumeration and needs assessment of the unsheltered population of people experiencing homelessness." <a href="https://www.washington.edu/populationhealth/2024/06/06/initiative-announces-awardees-of-spring-quarter-2024-tier-3-pilot-research-grants/">University of Washington Population Health Initiative's Tier 3 Pilot Grant Program </a> with support from CSDE and Sociology. $217,593.
+* *2024-2026* Almquist, Z.W. (Lead-PI), Hagopian, A., Hebert, P., McCormick, T., Yang, J., Kajfasz, O., Rothfolk, J., Carey, C. ``Community-driven Enumeration and Needs Assessment of People Experiencing Homelessness: A high-frequency method for enumeration and needs assessment of the unsheltered population of people experiencing homelessness." <a href="https://www.washington.edu/populationhealth/2024/06/06/initiative-announces-awardees-of-spring-quarter-2024-tier-3-pilot-research-grants/">University of Washington Population Health Initiative's Tier 3 Pilot Grant Program </a> with support from CSDE and Sociology. $217,593.
 
 
 Past Funding
