@@ -37,4 +37,69 @@ Almquist specializes in developing and applying innovative methodologies to addr
 
 ------
 
+<p><i class="fab fa-fw fa-bluesky" aria-hidden="true"></i> <strong>Latest from Bluesky</strong> &nbsp; <a href="https://bsky.app/profile/zalmquist.bsky.social" style="font-size:0.8em;">@zalmquist.bsky.social</a></p>
+
+<style>
+.bsky-feed{margin:0.5em 0 1em;}
+.bsky-post{border:1px solid #ccc;border-radius:4px;padding:0.7em 0.9em;margin-bottom:0.8em;}
+.bsky-post p{margin:0;white-space:pre-wrap;word-wrap:break-word;}
+.bsky-date{display:block;margin-top:0.5em;font-size:0.8em;color:#777;}
+.bsky-date a{color:#777;}
+.bsky-empty{color:#777;font-size:0.9em;}
+</style>
+
+<div class="bsky-feed" id="bsky-feed"><p class="bsky-empty">Loading recent posts…</p></div>
+
+<script>
+(function () {
+  var HANDLE = "zalmquist.bsky.social";
+  var LIMIT = 5; // number of posts to display
+  var el = document.getElementById("bsky-feed");
+
+  function esc(s) {
+    return s.replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function linkify(s) {
+    return esc(s).replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank" rel="noopener">$1</a>');
+  }
+  function postUrl(item) {
+    var rkey = item.post.uri.split("/").pop();
+    return "https://bsky.app/profile/" + item.post.author.handle + "/post/" + rkey;
+  }
+
+  var api = "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed" +
+    "?actor=" + encodeURIComponent(HANDLE) + "&limit=30&filter=posts_no_replies";
+
+  fetch(api)
+    .then(function (r) { return r.ok ? r.json() : Promise.reject(r.status); })
+    .then(function (data) {
+      var posts = (data.feed || []).filter(function (item) {
+        return !item.reason && item.post && item.post.record && item.post.record.text;
+      }).slice(0, LIMIT);
+
+      if (!posts.length) {
+        el.innerHTML = '<p class="bsky-empty">No recent posts. ' +
+          '<a href="https://bsky.app/profile/' + HANDLE + '">View on Bluesky →</a></p>';
+        return;
+      }
+
+      el.innerHTML = posts.map(function (item) {
+        var d = new Date(item.post.record.createdAt).toLocaleDateString("en-US",
+          { year: "numeric", month: "short", day: "numeric" });
+        return '<div class="bsky-post"><p>' + linkify(item.post.record.text) + "</p>" +
+          '<span class="bsky-date"><a href="' + postUrl(item) +
+          '" target="_blank" rel="noopener">' + d + "</a></span></div>";
+      }).join("");
+    })
+    .catch(function () {
+      el.innerHTML = '<p class="bsky-empty">Posts unavailable right now. ' +
+        '<a href="https://bsky.app/profile/' + HANDLE + '">View on Bluesky →</a></p>';
+    });
+})();
+</script>
+
+------
+
 
