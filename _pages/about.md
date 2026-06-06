@@ -53,7 +53,7 @@ Almquist specializes in developing and applying innovative methodologies to addr
 <script>
 (function () {
   var HANDLE = "zalmquist.bsky.social";
-  var LIMIT = 5; // number of posts to display
+  var LIMIT = 5; /* posts to display */
   var el = document.getElementById("bsky-feed");
 
   function esc(s) {
