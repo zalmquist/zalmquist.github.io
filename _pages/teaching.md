@@ -31,7 +31,7 @@ AI at the University of Washington
 ===
 
 * 2026 - present: Member of the task force for the campus-wide AI minor for undergraduate students.
-* 2025 - present: Member of the Working Group on Guiding Principles for AI Graduate Programs.
+* 2025 - present: Member of the Working Group on Guiding Principles for AI in Graduate Programs at UW.
 * 2026 - present: Member of the [Purple AI](https://it.uw.edu/guides/artificial-intelligence/purple/) Beta Users group.
 * Undergraduate Courses
     + SOC 225: Data and Society
