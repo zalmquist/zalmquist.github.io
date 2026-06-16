@@ -34,9 +34,9 @@ AI at the University of Washington
 * 2025 - present: Member of the Working Group on Guiding Principles for AI in Graduate Programs at UW.
 * 2026 - present: Member of the [Purple AI](https://it.uw.edu/guides/artificial-intelligence/purple/) Beta Users group.
 * Undergraduate Courses
-    + SOC 225: Data and Society
     + SOC 401: AI and Data Science in Public Policy
     + SOC 325: Quantified Self: An Introduction to the Societal implications of self-tracking
+    + SOC 225: Data and Society
 
 Data Science at the University of Washington
 ===
