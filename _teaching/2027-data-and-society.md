@@ -8,7 +8,9 @@ date: 2027-01-01
 location: "Seattle, WA"
 ---
 
-[Syllabus]()
+3 Credit Lecture [Syllabus](/files/soc_225_syl.pdf)
+
+5 Credit Lecture and Lab [Syllabus](/files/soc_225_lab_syl.pdf)
 
 Winter and Spring 2027.
 
