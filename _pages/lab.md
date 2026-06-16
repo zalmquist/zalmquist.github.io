@@ -65,6 +65,12 @@ Deng, Y., Gassett, A. J., Bi, J., Sutton, A., Kaufman, J. D., Flaxman, A. D., Ha
 <div style="text-align:center;"><a href="/files/PAA2026_Air_Quality_poster.pdf"><img src="/images/paa2026_air_quality_poster.png" alt="Spatial-temporal analysis of particulate exposure poster"></a></div>
 </div>
 
+<div class="poster-col">
+<b>What a Dollar Costs: Travel Times and Distances to Services for People Experiencing Homelessness in King County, Washington</b><br>
+Sutton, A., Hernandez, A. D., &amp; Almquist, Z. W. (2026). Population Association of America (PAA) Annual Meeting. [<a href="/files/PAA2026_Travel_Times_poster.pdf">PDF</a>]<br><br>
+<a href="/files/PAA2026_Travel_Times_poster.pdf"><img src="/images/paa2026_travel_times_poster.png" alt="What a Dollar Costs travel times poster"></a>
+</div>
+
 </div>
 
 Current Funding
