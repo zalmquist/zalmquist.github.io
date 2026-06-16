@@ -78,6 +78,7 @@ Sociology
     + Fall 2023
 * SOC 401: AI and Data Science in Public Policy
     + [Syllabus](/files/soc_401_ai_syl.pdf)
+    + Fall 2025
 * SOC 331: Population and Society
     + [Syllabus]()
     + Spring 2025
