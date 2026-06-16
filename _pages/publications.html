@@ -9,6 +9,18 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+{% if site.publication_category %}
+  <div class="wordwrap" style="margin-top:0.5em;"><strong>Jump to:</strong>
+    {% assign shown = 0 %}
+    {% for category in site.publication_category %}
+      {% assign cat_posts = site.publications | where: "category", category[0] %}
+      {% if cat_posts.size > 0 %}
+        {% if shown > 0 %} &middot; {% endif %}<a href="#{{ category[0] }}">{{ category[1].title }}</a>{% assign shown = shown | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endif %}
+
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
@@ -20,7 +32,7 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        <h2 id="{{ category[0] }}">{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
