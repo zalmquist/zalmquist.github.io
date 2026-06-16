@@ -19,11 +19,11 @@ Up coming & current courses
 Syllabi and other information on my teaching
 ===
 
-My objectives as an educator of social science, data science, and methods courses, in particular, are to expose students to empirical research through data collection (e.g., survey research or sensors) and data analysis (e.g., linear models and descriptive statistics) and to provide ample opportunity for data presentation and interpretation. Students learn methods and statistics best through examples and hands-on experience, including written reports, problem sets, and presentations.
+As an educator in social science, data science, and quantitative methods, my goal is to ground students in the full arc of empirical research: from data collection (e.g., surveys and sensors), through analysis (e.g., regression and descriptive statistics), to the presentation and interpretation of results. Students learn methods and statistics best through hands-on experience, so my courses emphasize concrete examples, written reports, problem sets, and presentations. I also help students engage critically and responsibly with emerging tools—including artificial intelligence and machine learning—both as objects of sociological study and as instruments for doing research.
 
-My teaching focuses on data science, demography, social network methods, and homelessness-related issues. I have also taught courses in statistics and sociology at the graduate and undergraduate levels.
+My teaching centers on data science, artificial intelligence, demography, social network methods, and homelessness, and I have taught a range of statistics and sociology courses at the graduate and undergraduate levels.
 
-Below is a list of courses I have taught and other teaching-related activities. 
+Below is a list of courses I have taught, along with other teaching-related activities.
 
 ---
 
