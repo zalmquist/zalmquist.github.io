@@ -10,7 +10,12 @@ author_profile: true
 {% endif %}
 
 {% if site.publication_category %}
-  <div class="wordwrap" style="margin-top:0.5em;"><strong>Jump to:</strong>
+  <style>
+    .pub-toc{position:sticky;top:70px;z-index:15;background:#fff;
+      margin:0.5em 0 1em;padding:0.5em 0;border-bottom:1px solid #ddd;font-size:0.9em;}
+    .page__content h2[id]{scroll-margin-top:120px;}
+  </style>
+  <div class="wordwrap pub-toc"><strong>Jump to:</strong>
     {% assign shown = 0 %}
     {% for category in site.publication_category %}
       {% assign cat_posts = site.publications | where: "category", category[0] %}
