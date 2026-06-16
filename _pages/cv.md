@@ -52,7 +52,7 @@ Professional Leadership
 
 * 2022 - present Editor-in-Chief Journal of Mathematical Sociology
 * 2026 - 2027 Chair ASA Section on Mathematical Sociology
-* 2024 - present Chair-elect/Vice Chair APHA Caucus on Homelessness
+* 2025 - 2027 Chair APHA Caucus on Homelessness
 
 Professional Memberships
 ======
