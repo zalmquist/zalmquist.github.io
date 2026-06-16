@@ -30,7 +30,7 @@ People
 * Yehong Deng, PhD Student in Sociology, UW
 * Brandon Morande, PhD Student in Sociology, UW
 * Elizabeth Nova, PhD Student in Sociology, UW (DSDT Fellow)
-* Emily Poter, PhD Student in iSchool, UW
+* Emily Porter, PhD Student in iSchool, UW
 
 ### Alumni
 
