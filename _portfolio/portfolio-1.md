@@ -34,6 +34,7 @@ My research has focused on improving our understanding of the population size an
 <b>Data</b>
 
 * <a href="https://uwescience.github.io/DSSG2024_understanding_homelessness/">2023 UW King County Understanding Homelessness Project</a>
+* <a href="https://github.com/SSDALab/COCHomeless">Continuum of Care Homeless Counts (COCHomeless)</a> &mdash; data and code from Almquist, Helwig, &amp; You (2020), <i>Mathematical Population Studies</i> 27(1), 46&ndash;58; now updated to cover 2007&ndash;2025.
 
 <b>Peer Reviewed Articles and Working Papers</b>
 
