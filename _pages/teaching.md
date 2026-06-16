@@ -27,6 +27,17 @@ Below is a list of courses I have taught, along with other teaching-related acti
 
 ---
 
+AI at the University of Washington
+===
+
+* 2026 - present: Member of the task force for the campus-wide AI minor for undergraduate students.
+* 2025 - present: Member of the Working Group on Guiding Principles for AI Graduate Programs.
+* 2026 - present: Member of the [Purple AI](https://it.uw.edu/guides/artificial-intelligence/purple/) Beta Users group.
+* Undergraduate Courses
+    + SOC 225: Data and Society
+    + SOC 401: AI and Data Science in Public Policy
+    + SOC 325: Quantified Self: An Introduction to the Societal implications of self-tracking
+
 Data Science at the University of Washington
 ===
 
@@ -65,6 +76,8 @@ Sociology
 * SOC 401: Housing and Homelessness in the United States
     + [Syllabus](/files/soc_401_syl.pdf)
     + Fall 2023
+* SOC 401: AI and Data Science in Public Policy
+    + [Syllabus](/files/soc_401_ai_syl.pdf)
 * SOC 331: Population and Society
     + [Syllabus]()
     + Spring 2025
@@ -104,6 +117,9 @@ Statistics
 
 **University of Washington**
 
+* CSSS 567/STAT 567: Statistical Analysis of Social Networks
+    + [Syllabus]()
+    + Winter 2027
 * CSSS 533: Research Methods in Demography
     +  [Syllabus](/files/soc_533_syl.pdf)
     +  Winter 2023
