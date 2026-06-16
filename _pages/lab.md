@@ -28,17 +28,18 @@ People
 
 * Zach Brown, PhD Student in Sociology, UW
 * Yehong Deng, PhD Student in Sociology, UW
-* Elizabeth Nova, PhD Student in Sociology, UW (DSDT Fellow)
 * Brandon Morande, PhD Student in Sociology, UW
+* Elizabeth Nova, PhD Student in Sociology, UW (DSDT Fellow)
+* Emily Poter, PhD Student in iSchool, UW
 
 ### Alumni
 
-* Ihsan Kahveci, PhD Sociology - Postdoc, Oxford University, UK
 * David Coomes, PhD Epidemiology (DSDT Fellow)
+* Connor Gilroy, PhD Sociology - Blue Rose Research
+* Ihsan Kahveci, PhD Sociology - Postdoc, Oxford University, UK
+* Larisa Ozeryansky, PhD, Interdisciplinary Studies - Assistant Professor, University of Tennessee Public Health
 * Aja Sutton, PhD Geography - Postdoc Stanford University
 * June Yang, PhD Sociology - Research Scientist at CSDE & eScience, UW
-* Connor Gilroy, PhD Sociology - Blue Rose Research
-* Larisa Ozeryansky, PhD, Interdisciplinary Studies - Assistant Professor, University of Tennessee Public Health
 
 Posters
 ===
