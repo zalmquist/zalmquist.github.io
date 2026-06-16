@@ -45,7 +45,7 @@ Posters
 ===
 
 <style>
-.poster-grid{display:flex;flex-wrap:wrap;gap:28px;align-items:flex-start;}
+.poster-grid{display:flex;flex-wrap:wrap;gap:28px;align-items:flex-start;margin-bottom:2.5em;}
 .poster-grid .poster-col{flex:1 1 340px;}
 .poster-grid img{max-width:100%;height:auto;border:1px solid #ccc;}
 @media (min-width:700px){
