@@ -30,7 +30,7 @@ Below is a list of courses I have taught, along with other teaching-related acti
 AI at the University of Washington
 ===
 
-* 2026 - present: Member of the task force for the campus-wide AI minor for undergraduate students.
+* 2026 - present: Member of the task force for the campus-wide AI minor for undergraduate students (featured in [GeekWire](https://www.geekwire.com/2026/not-just-for-coders-uws-upcoming-ai-minor-will-reach-beyond-the-computer-science-school/)).
 * 2025 - present: Member of the Working Group on Guiding Principles for AI in Graduate Programs at UW.
 * 2026 - present: Member of the [Purple AI](https://it.uw.edu/guides/artificial-intelligence/purple/) Beta Users group.
 * Undergraduate Courses
