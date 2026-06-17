@@ -8,7 +8,7 @@ date: 2027-04-01
 location: "Seattle, WA"
 ---
 
-[Syllabus]()
+[Syllabus (coming soon)](/syllabus-coming-soon/)
 
 Spring 2027.
 

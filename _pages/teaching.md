@@ -80,13 +80,13 @@ Sociology
     + [Syllabus](/files/soc_401_ai_syl.pdf)
     + Fall 2025
 * SOC 331: Population and Society
-    + [Syllabus]()
+    + [Syllabus](/files/soc_331_syl.pdf)
     + Spring 2025
 * SOC 325: Quantified Self: An Introduction to the Societal implications of self-tracking (Data Science Minor)
     + [Syllabus](/files/soc_325_syl.pdf)
     + Spring 2021; Winter 2023; Fall 2023
 * SOC 301: Homelessness in the United States
-    + [Syllabus]()
+    + [Syllabus](/files/soc_301_syl.pdf)
     + Winter 2025
 * SOC 225: Data and Society (Data Science Minor)
     + 3 Credit Lecture [Syllabus](/files/soc_225_syl.pdf)
@@ -119,7 +119,7 @@ Statistics
 **University of Washington**
 
 * CSSS 567/STAT 567: Statistical Analysis of Social Networks
-    + [Syllabus]()
+    + [Syllabus (coming soon)](/syllabus-coming-soon/)
     + Winter 2027
 * CSSS 533: Research Methods in Demography
     +  [Syllabus](/files/soc_533_syl.pdf)
