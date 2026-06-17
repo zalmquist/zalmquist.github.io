@@ -45,6 +45,7 @@ Data Science at the University of Washington
 * 2020 - present: Curriculum committee for the university-wide Data Science minor.
 * Graduate Courses
     + SOC 538: Data Science, Population Processes and Health
+    + CSSS 567/STAT 567: Statistical Analysis of Social Networks
 * Undergraduate Courses
     + SOC 225: Data and Society (Data Science Minor)
     + SOC 325: Quantified Self: An Introduction to the Societal implications of self-tracking (Data Science Minor)
