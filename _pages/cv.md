@@ -22,8 +22,8 @@ Education
 Primary Appointments
 ======
 * University of Washington
-  * Professor of Sociology (effective September 16, 2026)
-  * Adjunct Professor of Statistics (effective September 16, 2026)
+  * Professor of Sociology
+  * Adjunct Professor of Statistics
   * Senior Data Science Fellow, eScience
 
 Affiliations
