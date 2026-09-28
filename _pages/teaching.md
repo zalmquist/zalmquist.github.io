@@ -87,7 +87,7 @@ Sociology
     + [Syllabus](/files/soc_325_syl.pdf)
     + Spring 2021; Winter 2023; Fall 2023
 * SOC 301: Homelessness in the United States
-    + [Syllabus](/files/soc_301_syl.pdf)
+    + [Syllabus](/files/soc_301_homeless_syl.pdf)
     + Winter 2025
 * SOC 225: Data and Society (Data Science Minor)
     + 3 Credit Lecture [Syllabus](/files/soc_225_syl.pdf)
