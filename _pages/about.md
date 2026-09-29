@@ -26,7 +26,8 @@ Almquist specializes in developing and applying innovative methodologies to addr
 **Public Outreach**
 
 * [Q&A: After developing a better way to count homelessness, UW researchers discuss how more accurate data can help providers and people](https://www.washington.edu/news/2024/10/29/qa-after-developing-a-better-way-to-count-homelessness-uw-researchers-discuss-how-more-accurate-data-can-help-providers-and-people/)
-* The King County Regional Homelessness Authority's 2024 report applying the Respondent-Driven Sampling approach from [Almquist et al. (2025)](https://academic.oup.com/aje/article-abstract/194/6/1524/7749332) to count people experiencing unsheltered homelessness is now available: [King County 2024 Point-in-Time Count](https://kcrha.org/wp-content/uploads/2025/05/Point-in-Time-Count-2024_King-County_final.pdf).
+* The King County Regional Homelessness Authority's 2024 report applying the Respondent-Driven Sampling approach from [Almquist et al. (2025)](https://academic.oup.com/aje/article-abstract/194/6/1524/7749332) to count people experiencing unsheltered homelessness is now available: [King County 2024 Point-in-Time Count](https://kcrha.org/wp-content/uploads/2026/04/Revised-Point-in-Time-Count-2024-King-County-final.pdf).
+* The Los Angeles Homeless Services Authority's 2026 count methodology report, which applies the Respondent-Driven Sampling approach from [Almquist et al. (2025)](https://academic.oup.com/aje/article-abstract/194/6/1524/7749332) to the youth count, is now available: [2026 USC Homeless Count Methodology Report](https://www.lahsa.org/documents?id=10152-2026-usc-homeless-count-methodology-report).
 
 ------
 
