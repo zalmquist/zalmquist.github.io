@@ -22,7 +22,7 @@ Education
 Primary Appointments
 ======
 * University of Washington
-  * Professor of Sociology
+  * Blumstein-Jordan Professor of Sociology
   * Adjunct Professor of Statistics
   * Senior Data Science Fellow, eScience
 
