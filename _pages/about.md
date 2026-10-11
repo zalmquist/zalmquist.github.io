@@ -34,7 +34,7 @@ Almquist specializes in developing and applying innovative methodologies to addr
 **Working Groups**
 
 * [Homelessness Research Working Group](https://ssdalab.github.io/kcpehworkinggroup/)
-    + Meets Fridays from 10-11:00 in Savery Hall Room 245
+    + Meets Fridays from 10-11:00 in Savery Hall Room 409
 
 ------
 

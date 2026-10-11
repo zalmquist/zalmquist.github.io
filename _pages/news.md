@@ -42,6 +42,48 @@ Selected Coverage
 
 <div class="media-cards">
 
+<a class="mcard" href="https://www.seattletimes.com/seattle-news/homeless/number-of-homeless-native-people-in-king-county-higher-than-reported/" target="_blank" rel="noopener">
+  <img class="logo" src="https://www.google.com/s2/favicons?domain=seattletimes.com&sz=128" alt="The Seattle Times">
+  <span class="body"><span class="top"><span class="outlet">The Seattle Times</span> <span class="flag">Quoted</span></span>
+  <span class="title">Number of homeless Native people in King County higher than reported</span>
+  <span class="date">October 2026</span></span>
+</a>
+
+<a class="mcard" href="https://nativenewsonline.net/currents/new-data-shows-native-people-make-up-15-of-king-countys-homeless-population/" target="_blank" rel="noopener">
+  <img class="logo" src="https://www.google.com/s2/favicons?domain=nativenewsonline.net&sz=128" alt="Native News Online">
+  <span class="body"><span class="top"><span class="outlet">Native News Online</span> <span class="flag">Mentioned</span></span>
+  <span class="title">New Data Shows Native People Make Up 15% of King County&rsquo;s Homeless Population</span>
+  <span class="date">Levi Rickert &middot; October 2026</span></span>
+</a>
+
+<a class="mcard" href="https://mailchi.mp/37a51291da98/the-data-was-wrong-heres-what-we-found" target="_blank" rel="noopener">
+  <img class="logo" src="https://www.google.com/s2/favicons?domain=chiefseattleclub.org&sz=128" alt="Chief Seattle Club">
+  <span class="body"><span class="top"><span class="outlet">Chief Seattle Club</span> <span class="flag">Research cited</span></span>
+  <span class="title">The Data Was Wrong. Here&rsquo;s What We Found.</span>
+  <span class="date">Derrick Belgarde &middot; October 2026</span></span>
+</a>
+
+<a class="mcard" href="https://www.buffalosfire.com/the-daily-spark/native-organizations-question-seattle-homelessness-count" target="_blank" rel="noopener">
+  <img class="logo" src="https://www.google.com/s2/favicons?domain=buffalosfire.com&sz=128" alt="Buffalo's Fire">
+  <span class="body"><span class="top"><span class="outlet">Buffalo&rsquo;s Fire</span> <span class="flag">Syndicated Quote</span></span>
+  <span class="title">Native organizations question Seattle homelessness count</span>
+  <span class="date">July 2026</span></span>
+</a>
+
+<a class="mcard" href="https://ictnews.org/news/northwest-bureau/undercount-of-native-homeless-population-in-seattle-highlights-bigger-data-collection-concerns/" target="_blank" rel="noopener">
+  <img class="logo" src="https://www.google.com/s2/favicons?domain=ictnews.org&sz=128" alt="ICT">
+  <span class="body"><span class="top"><span class="outlet">ICT (Indian Country Today)</span> <span class="flag">Quoted</span></span>
+  <span class="title">Undercount of Native homeless population in Seattle highlights bigger data collection concerns</span>
+  <span class="date">Nika Bartoo-Smith &middot; July 2026</span></span>
+</a>
+
+<a class="mcard" href="https://www.underscore.news/justice/housing/undercount-of-native-homeless-population-in-seattle-highlights-bigger-data-collection-concerns/" target="_blank" rel="noopener">
+  <img class="logo" src="https://www.google.com/s2/favicons?domain=underscore.news&sz=128" alt="Underscore Native News">
+  <span class="body"><span class="top"><span class="outlet">Underscore Native News</span> <span class="flag">Quoted</span></span>
+  <span class="title">Undercount of Native homeless population in Seattle highlights bigger data collection concerns</span>
+  <span class="date">Nika Bartoo-Smith &middot; July 2026</span></span>
+</a>
+
 <a class="mcard" href="https://imprintnews.org/top-stories/l-a-county-tests-new-approach-to-counting-homeless-youth-relying-on-youth-themselves/276177" target="_blank" rel="noopener">
   <img class="logo" src="https://www.google.com/s2/favicons?domain=imprintnews.org&sz=128" alt="The Imprint">
   <span class="body"><span class="top"><span class="outlet">The Imprint</span> <span class="flag">Quoted</span></span>
@@ -51,9 +93,9 @@ Selected Coverage
 
 <a class="mcard" href="https://nextcity.org/urbanist-news/la-county-tests-new-approach-counting-homeless-youth-sampling" target="_blank" rel="noopener">
   <img class="logo" src="https://www.google.com/s2/favicons?domain=nextcity.org&sz=128" alt="Next City">
-  <span class="body"><span class="top"><span class="outlet">Next City</span> <span class="flag">Syndication</span></span>
+  <span class="body"><span class="top"><span class="outlet">Next City</span> <span class="flag">Quoted</span></span>
   <span class="title">L.A. County Tests a New Approach To Counting Homeless Youth: Relying on Youth Themselves</span>
-  <span class="date">2026</span></span>
+  <span class="date">Jeremy Loudenback &middot; August 2026</span></span>
 </a>
 
 <a class="mcard" href="https://www.thestranger.com/news/king-countys-homelessness-crisis-worsens-but-at-a-slower-pace/" target="_blank" rel="noopener">
